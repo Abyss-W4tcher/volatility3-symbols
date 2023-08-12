@@ -1,6 +1,6 @@
 # <img src="https://cdn-icons-png.flaticon.com/128/5088/5088992.png" width="3%" height="3%"> Volatility3 symbols
 
-![](https://img.shields.io/badge/Symbols-4258-green)
+![](https://img.shields.io/badge/Symbols-4268-green)
 
 ![](https://img.shields.io/badge/Ubuntu%20releases/amd64-14.04%20%7C%2016.04%20%7C%2018.04%20%7C%2020.04%20%7C%2022.04-blue)  
 ![](https://img.shields.io/badge/Ubuntu%20releases/i386-14.04%20%7C%2016.04%20%7C%2018.04-blue)  
