@@ -4,7 +4,8 @@
 
 ![](https://img.shields.io/badge/Ubuntu%20releases/amd64-14.04%20%7C%2016.04%20%7C%2018.04%20%7C%2020.04%20%7C%2022.04-blue)  
 ![](https://img.shields.io/badge/Ubuntu%20releases/i386-14.04%20%7C%2016.04%20%7C%2018.04-blue)  
-
+![](https://img.shields.io/badge/AlmaLinux%20releases/amd64-8.8%20%7C%209.2-blue)  
+![](https://img.shields.io/badge/RockyLinux%20releases/amd64-8.8%20%7C%209.2-blue)  
 
 ## About the project 
 
@@ -19,6 +20,22 @@ This repository contains Volatility3 symbols in ISF (Intermediate Symbol Format)
 - Profile filename : `Ubuntu-[ubuntu_version_number]_[kernel_version]-[kernel_flavor]_[architecture].json.xz`
 
 - Example : `Ubuntu/14.04/amd64/generic/Ubuntu-14.04_3.13.0-29.53-generic_amd64.json.xz`
+
+### AlmaLinux
+
+- Profile path : `AlmaLinux/[version_number]/[architecture]/[kernel].el[version_number].[architecture]/`
+
+- Profile filename : `AlmaLinux_[kernel].el[version_number].[architecture].json.xz`
+
+- Example : `AlmaLinux/8.8/x86_64/4.18.0-477.10.1.el8_8.x86_64/AlmaLinux_4.18.0-477.10.1.el8_8.x86_64.json.xz`
+
+### RockyLinux
+
+- Profile path : `AlmaLinux/[version_number]/[architecture]/[kernel].el[version_number].[architecture]/`
+
+- Profile filename : `RockyLinux_[kernel].el[version_number].[architecture].json.xz`
+
+- Example : `RockyLinux/8.8/x86_64/4.18.0-477.10.1.el8_8.x86_64/RockyLinux_4.18.0-477.10.1.el8_8.x86_64.json.xz`
 
 ## Usage
 
