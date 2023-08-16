@@ -1,11 +1,13 @@
 # <img src="https://cdn-icons-png.flaticon.com/128/5088/5088992.png" width="3%" height="3%"> Volatility3 symbols
 
-![](https://img.shields.io/badge/Symbols-4268-green)
+![](https://img.shields.io/badge/Symbols-4352-green)
 
 ![](https://img.shields.io/badge/Ubuntu%20releases/amd64-14.04%20%7C%2016.04%20%7C%2018.04%20%7C%2020.04%20%7C%2022.04-blue)  
 ![](https://img.shields.io/badge/Ubuntu%20releases/i386-14.04%20%7C%2016.04%20%7C%2018.04-blue)  
 ![](https://img.shields.io/badge/AlmaLinux%20releases/amd64-8.8%20%7C%209.2-blue)  
 ![](https://img.shields.io/badge/RockyLinux%20releases/amd64-8.8%20%7C%209.2-blue)  
+![](https://img.shields.io/badge/KaliLinux%20major%20kernels/amd64-3.18.0%20--%3E%206.4.0-blue)
+
 
 ## About the project 
 
@@ -15,27 +17,35 @@ This repository contains Volatility3 symbols in ISF (Intermediate Symbol Format)
 
 ### Ubuntu
 
-- Profile path : `Ubuntu/[ubuntu_version_number]/[architecture]/[kernel_flavor]/`
+- Symbols path : `Ubuntu/[ubuntu_version_number]/[architecture]/[kernel_flavor]/`
 
-- Profile filename : `Ubuntu-[ubuntu_version_number]_[kernel_version]-[kernel_flavor]_[architecture].json.xz`
+- Symbols filename : `Ubuntu-[ubuntu_version_number]_[kernel_version]-[kernel_flavor]_[architecture].json.xz`
 
 - Example : `Ubuntu/14.04/amd64/generic/Ubuntu-14.04_3.13.0-29.53-generic_amd64.json.xz`
 
 ### AlmaLinux
 
-- Profile path : `AlmaLinux/[version_number]/[architecture]/[kernel].el[version_number].[architecture]/`
+- Symbols path : `AlmaLinux/[version_number]/[architecture]/[kernel].el[version_number].[architecture]/`
 
-- Profile filename : `AlmaLinux_[kernel].el[version_number].[architecture].json.xz`
+- Symbols filename : `AlmaLinux_[kernel].el[version_number].[architecture].json.xz`
 
 - Example : `AlmaLinux/8.8/x86_64/4.18.0-477.10.1.el8_8.x86_64/AlmaLinux_4.18.0-477.10.1.el8_8.x86_64.json.xz`
 
 ### RockyLinux
 
-- Profile path : `AlmaLinux/[version_number]/[architecture]/[kernel].el[version_number].[architecture]/`
+- Symbols path : `AlmaLinux/[version_number]/[architecture]/[kernel].el[version_number].[architecture]/`
 
-- Profile filename : `RockyLinux_[kernel].el[version_number].[architecture].json.xz`
+- Symbols filename : `RockyLinux_[kernel].el[version_number].[architecture].json.xz`
 
 - Example : `RockyLinux/8.8/x86_64/4.18.0-477.10.1.el8_8.x86_64/RockyLinux_4.18.0-477.10.1.el8_8.x86_64.json.xz`
+
+### KaliLinux
+
+- Symbols path : `KaliLinux/[architecture]/[kernel_release_splitted_after_two_dots]/`
+
+- Symbols filename : `KaliLinux_[kernel_release]_[kernel_version]_[architecture].zip`
+
+- Example : `KaliLinux/amd64/4.15/KaliLinux_4.15.0-kali2-amd64_4.15.11-1kali1_amd64.json.xz`
 
 ## Usage
 
