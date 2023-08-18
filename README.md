@@ -1,9 +1,10 @@
 # <img src="https://cdn-icons-png.flaticon.com/128/5088/5088992.png" width="3%" height="3%"> Volatility3 symbols
 
-![](https://img.shields.io/badge/Symbols-4352-green)
+![](https://img.shields.io/badge/Symbols-6289-green)
 
 ![](https://img.shields.io/badge/Ubuntu%20releases/amd64-14.04%20%7C%2016.04%20%7C%2018.04%20%7C%2020.04%20%7C%2022.04-blue)  
-![](https://img.shields.io/badge/Ubuntu%20releases/i386-14.04%20%7C%2016.04%20%7C%2018.04-blue)  
+![](https://img.shields.io/badge/Ubuntu%20releases/i386-14.04%20%7C%2016.04%20%7C%2018.04-blue)    
+![](https://img.shields.io/badge/Debian%20major%20kernels/amd64-2.6.32%20--%3E%206.4.0-blue)  
 ![](https://img.shields.io/badge/AlmaLinux%20releases/amd64-8.8%20%7C%209.2-blue)  
 ![](https://img.shields.io/badge/RockyLinux%20releases/amd64-8.8%20%7C%209.2-blue)  
 ![](https://img.shields.io/badge/KaliLinux%20major%20kernels/amd64-3.18.0%20--%3E%206.4.0-blue)
@@ -22,6 +23,14 @@ This repository contains Volatility3 symbols in ISF (Intermediate Symbol Format)
 - Symbols filename : `Ubuntu-[ubuntu_version_number]_[kernel_version]-[kernel_flavor]_[architecture].json.xz`
 
 - Example : `Ubuntu/14.04/amd64/generic/Ubuntu-14.04_3.13.0-29.53-generic_amd64.json.xz`
+
+### Debian
+
+- Symbols path : `Debian/[architecture]/[kernel_release]/[package_revision]/[kernel_flavor_if_specified]/`
+
+- Symbols filename : `Debian_[kernel_release]-[package_revision]-[architecture]_[debian_revision]_[architecture].json.xz`
+
+- Example : `Debian/amd64/4.1.0/1/rt/Debian_4.1.0-1-rt-amd64_4.1.3-1_amd64.json.xz`
 
 ### AlmaLinux
 
@@ -70,4 +79,4 @@ A project to generate your own profiles and symbols is available here : https://
 
 ## Roadmap
 
-- [ ] Debian/[amd64,i386] symbols
+- [ ] Debian/i386 symbols
