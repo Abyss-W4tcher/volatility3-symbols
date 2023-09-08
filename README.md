@@ -21,7 +21,7 @@ Generate your own Volatility3 symbols with : https://github.com/Abyss-W4tcher/vo
 
 ## Format
 
-| Distribution | Path | Profile | Example |
+| Distribution | Path | Symbols | Example |
 | ------------ | ---- | ------- | ------- |
 | Ubuntu       | Ubuntu/<*architecture*>/<*base-kernel-version*>/<*ABI*>/<*kernel-flavour*>/ | Ubuntu_<*kernel-version*>\_<*package-revision*>\_<*architecture*>.json.xz | Ubuntu/amd64/4.4.0/22/generic/Ubuntu_4.4.0-22-generic_4.4.0-22.40~14.04.1_amd64.json.xz |
 | Debian       | Debian/<*architecture*>/<*base-kernel-version*>/<*ABI*>/<*kernel-flavour*>/ | Debian_<*kernel-version*>\_<*package-revision*>\_<*architecture*>.json.xz | Debian/amd64/3.1.0/1/Debian_3.1.0-1-amd64_3.1.1-1_amd64.json.xz |
