@@ -1,6 +1,6 @@
 # <img src="https://cdn-icons-png.flaticon.com/128/5088/5088992.png" width="3%" height="3%"> Volatility3 symbols
 
-![](https://img.shields.io/badge/Symbols-5773-seagreen?style=flat-square)
+![](https://img.shields.io/badge/Symbols-5912-seagreen?style=flat-square)
 
 ![](https://img.shields.io/badge/Ubuntu%20kernels/amd64-3.13.0%20--%3E%206.5.0-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=ubuntu)  
 ![](https://img.shields.io/badge/Ubuntu%20kernels/i386-3.13.0%20--%3E%205.4.0-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=ubuntu)  
@@ -26,8 +26,8 @@ Generate your own Volatility3 symbols with : https://github.com/Abyss-W4tcher/vo
 | Ubuntu       | Ubuntu/<*architecture*>/<*base-kernel-version*>/<*ABI*>/<*kernel-flavour*>/ | Ubuntu_<*kernel-version*>\_<*package-revision*>\_<*architecture*>.json.xz | Ubuntu/amd64/4.4.0/22/generic/Ubuntu_4.4.0-22-generic_4.4.0-22.40~14.04.1_amd64.json.xz |
 | Debian       | Debian/<*architecture*>/<*base-kernel-version*>/<*ABI*>/<*kernel-flavour*>/ | Debian_<*kernel-version*>\_<*package-revision*>\_<*architecture*>.json.xz | Debian/amd64/3.1.0/1/Debian_3.1.0-1-amd64_3.1.1-1_amd64.json.xz |
 | KaliLinux       | KaliLinux/<*architecture*>/<*base-kernel-version*>/<*kernel-flavour*>/ | KaliLinux_<*kernel-version*>\_<*package-revision*>\_<*architecture*>.json.xz | KaliLinux/amd64/5.2.0/KaliLinux_5.2.0-kali2-amd64_5.2.9-2kali1_amd64.json.xz |
-| AlmaLinux       | AlmaLinux/<*architecture*>/<*base-kernel-version*>/ | AlmaLinux_<*kernel-version*>.<*architecture*>.json.xz | AlmaLinux/x86_64/4.18.0/AlmaLinux_4.18.0-477.13.1.el8_8.x86_64.json.xz |
-| RockyLinux       | RockyLinux/<*architecture*>/<*base-kernel-version*>/ | RockyLinux_<*kernel-version*>.<*architecture*>.json.xz | RockyLinux/x86_64/4.18.0/RockyLinux_4.18.0-477.10.1.el8_8.x86_64.json.xz |
+| AlmaLinux       | AlmaLinux/<*architecture*>/<*base-kernel-version*>/<*kernel-flavour*>/ | AlmaLinux_<*kernel-version*>_<*architecture*>.json.xz | AlmaLinux/x86_64/4.18.0/AlmaLinux_4.18.0-477.13.1.el8_8_x86_64.json.xz |
+| RockyLinux       | RockyLinux/<*architecture*>/<*base-kernel-version*>/<*kernel-flavour*>/ | RockyLinux_<*kernel-version*>_<*architecture*>.json.xz | RockyLinux/x86_64/4.18.0/RockyLinux_4.18.0-477.10.1.el8_8_x86_64.json.xz |
 
 ## Usage
 
