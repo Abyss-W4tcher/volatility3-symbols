@@ -1,11 +1,11 @@
 # <img src="https://cdn-icons-png.flaticon.com/128/5088/5088992.png" width="3%" height="3%"> Volatility3 symbols
 
-![](https://img.shields.io/badge/Symbols-5912-seagreen?style=flat-square)
+![](https://img.shields.io/badge/Symbols-6094-seagreen?style=flat-square)
 
 ![](https://img.shields.io/badge/Ubuntu%20kernels/amd64-3.13.0%20--%3E%206.5.0-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=ubuntu)  
 ![](https://img.shields.io/badge/Ubuntu%20kernels/i386-3.13.0%20--%3E%205.4.0-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=ubuntu)  
 ![](https://img.shields.io/badge/Debian%20kernels/amd64-2.6.32%20--%3E%206.4.0-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=debian)  
-![](https://img.shields.io/badge/KaliLinux%20kernels/amd64-3.18.0%20--%3E%206.4.0-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=kalilinux)  
+![](https://img.shields.io/badge/KaliLinux%20kernels/amd64-3.18.0%20--%3E%206.5.0-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=kalilinux)  
 ![](https://img.shields.io/badge/AlmaLinux%20kernels/amd64-4.18.0%20%7C%205.14.0-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=almalinux)  
 ![](https://img.shields.io/badge/RockyLinux%20kernels/amd64-4.18.0%20%7C%205.14.0-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=rockylinux)  
 
