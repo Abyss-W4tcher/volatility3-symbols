@@ -36,11 +36,11 @@ Place every compressed symbol file you plan to use inside your `[volatility3_ins
 
 - *Why can't I locate symbols for a particular subversion of a listed distribution ?*
 
-Due to missing dependencies, some kernels specific versions may not be available here. However, you can try to edit an ISF file closely matching your needs, and check if Volatility3 can still work with it : 
+Due to missing dependencies, some kernels specific versions may not be available here. However, you can try to edit an ISF file closely matching your needs, and check if Volatility3 can still work with it (last resort) : 
 
 ```sh
 xz -d symbols.json.xz > symbols.json
-cat symbols.json | jq '.symbols.linux_banner.constant_data' # linux
-cat symbols.json | jq '.symbols.version.constant_data' # macOS
-# Then, encode your banner (given by the isfinfo plugin) in base64, and replace the one inside symbols.json with it.
+target_banner=''
+banner_path='.symbols.linux_banner.constant_data' || '.symbols.version.constant_data' # linux || mac, depending on your need
+jq "$banner_path = \"$(echo -n $target_banner | base64 -w0)\"" symbols.json > symbols.patched.json
 ```
