@@ -39,7 +39,7 @@ Place every compressed symbol file you plan to use inside your `[volatility3_ins
 Due to missing dependencies, some kernels specific versions may not be available here. However, you can try to edit an ISF file closely matching your needs, and check if Volatility3 can still work with it (last resort) : 
 
 ```sh
-xz -d symbols.json.xz > symbols.json
+xz -d symbols.json.xz
 target_banner=''
 banner_path='.symbols.linux_banner.constant_data' || '.symbols.version.constant_data' # linux || mac, depending on your need
 jq "$banner_path = \"$(echo -n $target_banner | base64 -w0)\"" symbols.json > symbols.patched.json
