@@ -44,3 +44,7 @@ target_banner=''
 banner_path='.symbols.linux_banner.constant_data' || '.symbols.version.constant_data' # linux || mac, depending on your need
 jq "$banner_path = \"$(echo -n $target_banner | base64 -w0)\"" symbols.json > symbols.patched.json
 ```
+
+## macOS
+
+Kernel debug symbols for macOS are fetched from : https://developer.apple.com/download/all. However, as Apple does not provide every build they make, some versions aren't available in this repository.
