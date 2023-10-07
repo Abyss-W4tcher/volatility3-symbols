@@ -39,12 +39,23 @@ Place every compressed symbol file you plan to use inside your `[volatility3_ins
 Due to missing dependencies, some kernels specific versions may not be available here. However, you can try to edit an ISF file closely matching your needs, and check if Volatility3 can still work with it (last resort) : 
 
 ```sh
-xz -d symbols.json.xz
-target_banner=''
-banner_path='.symbols.linux_banner.constant_data' || '.symbols.version.constant_data' # linux || mac, depending on your need
-jq "$banner_path = \"$(echo -n $target_banner | base64 -w0)\"" symbols.json > symbols.patched.json
+# Edit :
+symbols_filename=''
+new_banner=''
+banner_path='.symbols.linux_banner.constant_data' OR '.symbols.version.constant_data' # linux || mac, depending on your need
+# Do not edit :
+patched_filename=$(basename "$symbols_filename" .json.xz).patched.json
+xz -d "$symbols_filename"
+jq "$banner_path = \"$(printf "%s\0" $new_banner | base64 -w0)\"" $(basename "$symbols_filename" .xz) > $patched_filename
+cat $patched_filename | jq -r "$banner_path" | base64 -d | xxd
 ```
+
+Be aware that changing the banner won't make everything work by magic, as some other things like KASLR shift still need to match.
 
 ## macOS
 
 Kernel debug symbols for macOS are fetched from : https://developer.apple.com/download/all. However, as Apple does not provide every build they make, some versions aren't available in this repository.
+Here are some discussions about it :
+
+- https://github.com/volatilityfoundation/volatility3/issues/155
+- https://github.com/volatilityfoundation/volatility3/issues/541
