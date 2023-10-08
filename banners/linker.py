@@ -3,6 +3,8 @@ import lzma
 import json
 from base64 import b64encode, b64decode
 import logging 
+import natsort
+from collections import OrderedDict
 
 SCRIPT_DIRECTORY = Path(__file__).parent
 PROJECT_DIRECTORY = SCRIPT_DIRECTORY.parent
@@ -25,9 +27,14 @@ def load_banners():
         return {}
 
 
-def write_new_banner(banners: dict):
-    content = json.dumps(banners)
-    with open(BANNERS_FILE, "w+") as f:
+def write_new_banner(banners: dict, natsorted = False):
+    if natsorted:
+        content = json.dumps(
+                    OrderedDict(natsort.natsorted(banners.items())), indent=1
+        )
+    else: 
+        content = json.dumps(banners)
+    with open(f"{BANNERS_FILE}", "w+") as f:
         f.write(content)
 
 
@@ -60,6 +67,7 @@ for file_path in PROJECT_DIRECTORY.rglob("**/*.xz"):
     except Exception as e:
         logging.exception(f"Error computing {file_path}: {e}")
 
+write_new_banner(banners, natsorted=True)
 plain_banners = load_banners()
 vol_banners = {}
 vol_banners["version"] = 1

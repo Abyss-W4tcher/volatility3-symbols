@@ -31,6 +31,7 @@ Generate your own Volatility3 symbols with : https://github.com/Abyss-W4tcher/vo
 
 Place every compressed symbol file you plan to use inside your `[volatility3_installation]/volatility3/symbols/linux/` directory (create it if needed).
 
+Use the "banners/banners_plain.json" file to match banners and symbols quickly.
 
 ## FAQ
 
