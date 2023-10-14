@@ -2,13 +2,12 @@
 
 ![](https://img.shields.io/badge/Symbols-6462-seagreen?style=flat-square)
 
-![](https://img.shields.io/badge/Ubuntu%20kernels/amd64-3.13.0%20--%3E%206.5.0-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=ubuntu)  
-![](https://img.shields.io/badge/Ubuntu%20kernels/i386-3.13.0%20--%3E%205.4.0-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=ubuntu)  
-![](https://img.shields.io/badge/Debian%20kernels/amd64-2.6.32%20--%3E%206.4.0-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=debian)  
-![](https://img.shields.io/badge/KaliLinux%20kernels/amd64-3.18.0%20--%3E%206.5.0-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=kalilinux)  
-![](https://img.shields.io/badge/AlmaLinux%20kernels/amd64-4.18.0%20%7C%205.14.0-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=almalinux)  
-![](https://img.shields.io/badge/RockyLinux%20kernels/amd64-4.18.0%20%7C%205.14.0-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=rockylinux)  
-![](https://img.shields.io/badge/macOS%20versions-10.6.3%20--%3E%2014.0-dimgray?labelColor=lightsteelblue&style=for-the-badge&logo=macos) 
+![](https://img.shields.io/badge/Ubuntu-amd64%20|%20i386-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=ubuntu)  
+![](https://img.shields.io/badge/Debian-amd64-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=debian)  
+![](https://img.shields.io/badge/KaliLinux-amd64-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=kalilinux)  
+![](https://img.shields.io/badge/AlmaLinux-x86__64-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=almalinux)  
+![](https://img.shields.io/badge/RockyLinux-x86__64-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=rockylinux)  
+![](https://img.shields.io/badge/macOS-amd64%20|%20i386-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=macos)  
 
 ## Related work 
 
