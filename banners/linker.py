@@ -2,7 +2,7 @@ from pathlib import Path
 import lzma
 import json
 from base64 import b64encode, b64decode
-import logging 
+import logging
 import natsort
 from collections import OrderedDict
 
@@ -27,12 +27,10 @@ def load_banners():
         return {}
 
 
-def write_new_banner(banners: dict, natsorted = False):
+def write_new_banner(banners: dict, natsorted=False):
     if natsorted:
-        content = json.dumps(
-                    OrderedDict(natsort.natsorted(banners.items())), indent=1
-        )
-    else: 
+        content = json.dumps(OrderedDict(natsort.natsorted(banners.items())), indent=1)
+    else:
         content = json.dumps(banners)
     with open(f"{BANNERS_FILE}", "w+") as f:
         f.write(content)
@@ -66,6 +64,7 @@ for file_path in PROJECT_DIRECTORY.rglob("**/*.xz"):
         banners_as_str = json.dumps(banners)
     except Exception as e:
         logging.exception(f"Error computing {file_path}: {e}")
+        raise Exception("exit...")
 
 write_new_banner(banners, natsorted=True)
 plain_banners = load_banners()
@@ -80,9 +79,11 @@ for banner, paths in plain_banners.items():
 
     for path in paths:
         key = "mac" if path.startswith("macOS") else "linux"
-        paths_out.append(f"https://github.com/Abyss-W4tcher/volatility3-symbols/raw/master/{path}")
+        paths_out.append(
+            f"https://github.com/Abyss-W4tcher/volatility3-symbols/raw/master/{path}"
+        )
 
-    vol_banners[key][b64encode(banner).decode()] = paths_out 
+    vol_banners[key][b64encode(banner).decode()] = paths_out
 
 vol_banners = json.dumps(vol_banners)
 with open(BANNERS_VOL_FILE, "w+") as f:
