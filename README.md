@@ -13,7 +13,7 @@
 
 A similar project for Volatility2 profiles is available here : https://github.com/Abyss-W4tcher/volatility2-profiles
 
-Generate your own Volatility3 symbols with : https://github.com/Abyss-W4tcher/volatility-scripts/tree/master/symbols_builder
+EZ Volatility install script : https://github.com/Abyss-W4tcher/volatility-scripts/tree/master/vol_ez_install
 
 ## Format
 
