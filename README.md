@@ -30,7 +30,7 @@ EZ Volatility install script : https://github.com/Abyss-W4tcher/volatility-scrip
 
 Place every compressed symbol file you plan to use inside your `[volatility3_installation]/volatility3/symbols/linux/` directory (create it if needed).
 
-Use the "banners/banners_plain.json" file to match banners and symbols quickly.
+Explore the "banners/banners_plain.json" file to match banners and symbols quickly.
 
 ## FAQ
 
@@ -39,6 +39,7 @@ Use the "banners/banners_plain.json" file to match banners and symbols quickly.
 Due to missing dependencies, some kernels specific versions may not be available here. However, you can try to edit an ISF file closely matching your needs, and check if Volatility3 can still work with it (last resort) : 
 
 ```sh
+sudo apt-get install jq
 # Edit :
 symbols_filename=''
 new_banner=''
@@ -59,3 +60,12 @@ Here are some discussions about it :
 
 - https://github.com/volatilityfoundation/volatility3/issues/155
 - https://github.com/volatilityfoundation/volatility3/issues/541
+
+## Fetching symbols automatically
+
+Volatility3 provides a new feature allowing users to specify a remote symbols source to be queried when analyzing a memory dump. To test this feature in your local installation, run the following commands :
+
+```sh
+VOLATILITY3_PATH=/path/to/volatility3_install/ # Edit accordingly
+sed -i 's@REMOTE_ISF_URL = None@REMOTE_ISF_URL = "https://github.com/Abyss-W4tcher/volatility3-symbols/raw/master/banners/banners.json"@g' "$VOLATILITY3_PATH/volatility3/framework/constants/__init__.py"
+```
