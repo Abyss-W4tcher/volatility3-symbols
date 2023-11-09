@@ -19632,6 +19632,12 @@
  "Linux version 6.5.0-3-cloud-amd64 (debian-kernel@lists.debian.org) (gcc-13 (Debian 13.2.0-5) 13.2.0, GNU ld (GNU Binutils for Debian) 2.41) #1 SMP PREEMPT_DYNAMIC Debian 6.5.8-1 (2023-10-22)": [
   "Debian/amd64/6.5.0/3/cloud/Debian_6.5.0-3-cloud-amd64_6.5.8-1_amd64.json.xz"
  ],
+ "Linux version 6.5.0-4-amd64 (debian-kernel@lists.debian.org) (gcc-13 (Debian 13.2.0-6) 13.2.0, GNU ld (GNU Binutils for Debian) 2.41) #1 SMP PREEMPT_DYNAMIC Debian 6.5.10-1 (2023-11-03)": [
+  "Debian/amd64/6.5.0/4/Debian_6.5.0-4-amd64_6.5.10-1_amd64.json.xz"
+ ],
+ "Linux version 6.5.0-4-cloud-amd64 (debian-kernel@lists.debian.org) (gcc-13 (Debian 13.2.0-6) 13.2.0, GNU ld (GNU Binutils for Debian) 2.41) #1 SMP PREEMPT_DYNAMIC Debian 6.5.10-1 (2023-11-03)": [
+  "Debian/amd64/6.5.0/4/cloud/Debian_6.5.0-4-cloud-amd64_6.5.10-1_amd64.json.xz"
+ ],
  "Linux version 6.5.0-6-generic (buildd@lcy02-amd64-004) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-4ubuntu1) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #6-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep 14 16:16:40 UTC 2023 (Ubuntu 6.5.0-6.6-generic 6.5.3)": [
   "Ubuntu/amd64/6.5.0/6/generic/Ubuntu_6.5.0-6-generic_6.5.0-6.6_amd64.json.xz"
  ],
@@ -19727,5 +19733,11 @@
  ],
  "Linux version 6.5.0-kali4-cloud-amd64 (devel@kali.org) (gcc-13 (Debian 13.2.0-5) 13.2.0, GNU ld (GNU Binutils for Debian) 2.41) #1 SMP PREEMPT_DYNAMIC Debian 6.5.8-1kali1 (2023-10-24)": [
   "KaliLinux/amd64/6.5.0/cloud/KaliLinux_6.5.0-kali4-cloud-amd64_6.5.8-1kali1_amd64.json.xz"
+ ],
+ "Linux version 6.5.0-kali5-amd64 (devel@kali.org) (gcc-13 (Debian 13.2.0-5) 13.2.0, GNU ld (GNU Binutils for Debian) 2.41) #1 SMP PREEMPT_DYNAMIC Debian 6.5.10-1kali1 (2023-11-07)": [
+  "KaliLinux/amd64/6.5.0/KaliLinux_6.5.0-kali5-amd64_6.5.10-1kali1_amd64.json.xz"
+ ],
+ "Linux version 6.5.0-kali5-cloud-amd64 (devel@kali.org) (gcc-13 (Debian 13.2.0-5) 13.2.0, GNU ld (GNU Binutils for Debian) 2.41) #1 SMP PREEMPT_DYNAMIC Debian 6.5.10-1kali1 (2023-11-07)": [
+  "KaliLinux/amd64/6.5.0/cloud/KaliLinux_6.5.0-kali5-cloud-amd64_6.5.10-1kali1_amd64.json.xz"
  ]
 }
