@@ -34,6 +34,10 @@ Explore the "banners/banners_plain.json" file to match banners and symbols quick
 
 ## FAQ
 
+- *Some distributions are missing, do you plan to add them anytime soon ?*
+
+Adding a new distribution is not particularly an issue, and I'd like to include as much as I can. However, I do not want to push the repository size too far, to avoid a potential removal by GitHub.
+
 - *Why can't I locate symbols for a particular subversion of a listed distribution ?*
 
 Due to missing dependencies, some kernels specific versions may not be available here. However, you can try to edit an ISF file closely matching your needs, and check if Volatility3 can still work with it (last resort) : 
