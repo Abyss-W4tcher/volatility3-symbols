@@ -40,22 +40,11 @@ Adding a new distribution is not particularly an issue, and I'd like to include 
 
 - *Why can't I locate symbols for a particular subversion of a listed distribution ?*
 
-Due to missing dependencies, some kernels specific versions may not be available here. However, you can try to edit an ISF file closely matching your needs, and check if Volatility3 can still work with it (last resort) : 
-
-```sh
-sudo apt-get install jq
-# Edit :
-symbols_filename=''
-new_banner=''
-banner_path='.symbols.linux_banner.constant_data' OR '.symbols.version.constant_data' # linux || mac, depending on your need
-# Do not edit :
-patched_filename=$(basename "$symbols_filename" .json.xz).patched.json
-xz -d "$symbols_filename"
-jq "$banner_path = \"$(printf "%s\0" $new_banner | base64 -w0)\"" $(basename "$symbols_filename" .xz) > $patched_filename
-cat $patched_filename | jq -r "$banner_path" | base64 -d | xxd
-```
-
-Be aware that changing the banner won't make everything work by magic, as some other things like KASLR shift still need to match.
+    - Ubuntu :
+        It appears that debug symbols for pre-release and test kernels aren't automatically generated along the kernel source code, in [Ubuntu ddebs mirror](http://ddebs.ubuntu.com/).
+      You might want to take a look at the [Canonical Kernel Team](https://launchpad.net/~canonical-kernel-team/+archive/ubuntu/ppa) PPA, for non-stable kernels. There, download the correct vmlinux file, and then generate the ISF with dwarf2json.
+      
+Due to missing dependencies, some kernels specific versions may not be available here. 
 
 ## macOS
 
