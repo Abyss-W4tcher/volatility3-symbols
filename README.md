@@ -48,7 +48,7 @@ Due to missing dependencies, some kernels specific versions may not be available
 
 ## macOS
 
-Kernel debug symbols for macOS are fetched from : https://developer.apple.com/download/all. However, as Apple does not provide every build they make, some versions aren't available in this repository.
+Kernel debug symbols for macOS are fetched from : https://developer.apple.com/download/all. However, as Apple does not provide every build, some versions aren't available in this repository.
 Here are some discussions about it :
 
 - https://github.com/volatilityfoundation/volatility3/issues/155
