@@ -42,7 +42,7 @@ Adding a new distribution is not particularly an issue, and I'd like to include 
 
     - Ubuntu :
         It appears that debug symbols for pre-release and test kernels aren't automatically generated along the kernel source code, in [Ubuntu ddebs mirror](http://ddebs.ubuntu.com/).
-      You might want to take a look at the [Canonical Kernel Team](https://launchpad.net/~canonical-kernel-team/+archive/ubuntu/ppa) PPA, for non-stable kernels. There, download the correct vmlinux file, and then generate the ISF with dwarf2json.
+      You might want to take a look at the [Canonical Kernel Team](https://launchpad.net/~canonical-kernel-team/+archive/ubuntu/ppa) PPA, for non-stable kernels. Check out issue [#27](https://github.com/Abyss-W4tcher/volatility3-symbols/issues/27) for an example.
       
 Due to missing dependencies, some kernels specific versions may not be available here. 
 
