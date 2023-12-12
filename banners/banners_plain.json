@@ -15759,6 +15759,9 @@
  "Linux version 5.4.0-1115-gcp (buildd@bos03-amd64-003) (gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2)) #124-Ubuntu SMP Tue Sep 19 18:49:58 UTC 2023 (Ubuntu 5.4.0-1115.124-gcp 5.4.248)": [
   "Ubuntu/amd64/5.4.0/1115/gcp/Ubuntu_5.4.0-1115-gcp_5.4.0-1115.124_amd64.json.xz"
  ],
+ "Linux version 5.4.0-1115-oracle (buildd@lcy02-amd64-105) (gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2)) #124-Ubuntu SMP Tue Nov 28 01:23:49 UTC 2023 (Ubuntu 5.4.0-1115.124-oracle 5.4.257)": [
+  "Ubuntu/amd64/5.4.0/1115/oracle/Ubuntu_5.4.0-1115-oracle_5.4.0-1115.124_amd64.json.xz"
+ ],
  "Linux version 5.4.0-1116-aws (buildd@lcy02-amd64-093) (gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2)) #126-Ubuntu SMP Tue Nov 28 09:27:00 UTC 2023 (Ubuntu 5.4.0-1116.126-aws 5.4.257)": [
   "Ubuntu/amd64/5.4.0/1116/aws/Ubuntu_5.4.0-1116-aws_5.4.0-1116.126_amd64.json.xz"
  ],
@@ -20130,6 +20133,9 @@
  "Linux version 6.5.0-1007-gcp (buildd@bos03-amd64-056) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-4ubuntu3) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #7-Ubuntu SMP Fri Oct  6 21:04:35 UTC 2023 (Ubuntu 6.5.0-1007.7-gcp 6.5.3)": [
   "Ubuntu/amd64/6.5.0/1007/gcp/Ubuntu_6.5.0-1007-gcp_6.5.0-1007.7_amd64.json.xz"
  ],
+ "Linux version 6.5.0-1007-nvidia (buildd@lcy02-amd64-008) (x86_64-linux-gnu-gcc-11 (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #7-Ubuntu SMP PREEMPT_DYNAMIC Wed Dec  6 01:27:37 UTC 2023 (Ubuntu 6.5.0-1007.7-nvidia 6.5.3)": [
+  "Ubuntu/amd64/6.5.0/1007/nvidia/Ubuntu_6.5.0-1007-nvidia_6.5.0-1007.7_amd64.json.xz"
+ ],
  "Linux version 6.5.0-1007-oem (buildd@bos03-amd64-001) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #7-Ubuntu SMP PREEMPT_DYNAMIC Fri Oct 27 13:57:47 UTC 2023 (Ubuntu 6.5.0-1007.7-oem 6.5.3)": [
   "Ubuntu/amd64/6.5.0/1007/oem/Ubuntu_6.5.0-1007-oem_6.5.0-1007.7_amd64.json.xz"
  ],
@@ -20154,6 +20160,15 @@
  "Linux version 6.5.0-1009-aws (buildd@lcy02-amd64-008) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-4ubuntu3) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #9-Ubuntu SMP Sat Oct 21 21:10:09 UTC 2023 (Ubuntu 6.5.0-1009.9-aws 6.5.3)": [
   "Ubuntu/amd64/6.5.0/1009/aws/Ubuntu_6.5.0-1009-aws_6.5.0-1009.9_amd64.json.xz"
  ],
+ "Linux version 6.5.0-1009-azure (buildd@bos03-amd64-011) (x86_64-linux-gnu-gcc-11 (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #9~22.04.1-Ubuntu SMP Tue Nov  7 14:22:50 UTC 2023 (Ubuntu 6.5.0-1009.9~22.04.1-azure 6.5.3)": [
+  "Ubuntu/amd64/6.5.0/1009/azure/Ubuntu_6.5.0-1009-azure_6.5.0-1009.9~22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.5.0-1009-azure (buildd@bos03-amd64-026) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-4ubuntu3) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #9-Ubuntu SMP Tue Nov  7 12:00:42 UTC 2023 (Ubuntu 6.5.0-1009.9-azure 6.5.3)": [
+  "Ubuntu/amd64/6.5.0/1009/azure/Ubuntu_6.5.0-1009-azure_6.5.0-1009.9_amd64.json.xz"
+ ],
+ "Linux version 6.5.0-1009-gcp (buildd@lcy02-amd64-108) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-4ubuntu3) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #9-Ubuntu SMP Tue Nov  7 14:52:52 UTC 2023 (Ubuntu 6.5.0-1009.9-gcp 6.5.3)": [
+  "Ubuntu/amd64/6.5.0/1009/gcp/Ubuntu_6.5.0-1009-gcp_6.5.0-1009.9_amd64.json.xz"
+ ],
  "Linux version 6.5.0-1009-ibm (buildd@lcy02-amd64-106) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-4ubuntu3) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #9-Ubuntu SMP Fri Oct  6 21:06:20 UTC 2023 (Ubuntu 6.5.0-1009.9-ibm 6.5.3)": [
   "Ubuntu/amd64/6.5.0/1009/ibm/Ubuntu_6.5.0-1009-ibm_6.5.0-1009.9_amd64.json.xz"
  ],
@@ -20168,6 +20183,9 @@
  ],
  "Linux version 6.5.0-1010-azure (buildd@lcy02-amd64-037) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-4ubuntu3) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #10-Ubuntu SMP Mon Nov 20 20:14:42 UTC 2023 (Ubuntu 6.5.0-1010.10-azure 6.5.3)": [
   "Ubuntu/amd64/6.5.0/1010/azure/Ubuntu_6.5.0-1010-azure_6.5.0-1010.10_amd64.json.xz"
+ ],
+ "Linux version 6.5.0-1010-azure (buildd@lcy02-amd64-111) (x86_64-linux-gnu-gcc-11 (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #10~22.04.1-Ubuntu SMP Tue Nov 21 21:01:05 UTC 2023 (Ubuntu 6.5.0-1010.10~22.04.1-azure 6.5.3)": [
+  "Ubuntu/amd64/6.5.0/1010/azure/Ubuntu_6.5.0-1010-azure_6.5.0-1010.10~22.04.1_amd64.json.xz"
  ],
  "Linux version 6.5.0-1010-gcp (buildd@lcy02-amd64-034) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-4ubuntu3) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #10-Ubuntu SMP Fri Nov 17 21:33:36 UTC 2023 (Ubuntu 6.5.0-1010.10-gcp 6.5.3)": [
   "Ubuntu/amd64/6.5.0/1010/gcp/Ubuntu_6.5.0-1010-gcp_6.5.0-1010.10_amd64.json.xz"
@@ -20189,6 +20207,9 @@
  ],
  "Linux version 6.5.0-1013-oracle (buildd@lcy02-amd64-002) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-4ubuntu3) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #13-Ubuntu SMP Sat Nov 18 06:03:19 UTC 2023 (Ubuntu 6.5.0-1013.13-oracle 6.5.3)": [
   "Ubuntu/amd64/6.5.0/1013/oracle/Ubuntu_6.5.0-1013-oracle_6.5.0-1013.13_amd64.json.xz"
+ ],
+ "Linux version 6.5.0-1013-oracle (buildd@lcy02-amd64-022) (x86_64-linux-gnu-gcc-11 (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #13~22.04.4-Ubuntu SMP Wed Nov 29 17:50:31 UTC 2023 (Ubuntu 6.5.0-1013.13~22.04.4-oracle 6.5.3)": [
+  "Ubuntu/amd64/6.5.0/1013/oracle/Ubuntu_6.5.0-1013-oracle_6.5.0-1013.13~22.04.4_amd64.json.xz"
  ],
  "Linux version 6.5.0-kali1-amd64 (devel@kali.org) (gcc-13 (Debian 13.2.0-3) 13.2.0, GNU ld (GNU Binutils for Debian) 2.41) #1 SMP PREEMPT_DYNAMIC Debian 6.5.3-1kali1 (2023-09-19)": [
   "KaliLinux/amd64/6.5.0/KaliLinux_6.5.0-kali1-amd64_6.5.3-1kali1_amd64.json.xz"
@@ -20231,5 +20252,20 @@
  ],
  "Linux version 6.6.0-14-generic (buildd@lcy02-amd64-093) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-7ubuntu1) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #14-Ubuntu SMP PREEMPT_DYNAMIC Thu Nov 30 10:27:29 UTC 2023 (Ubuntu 6.6.0-14.14-generic 6.6.3)": [
   "Ubuntu/amd64/6.6.0/14/generic/Ubuntu_6.6.0-14-generic_6.6.0-14.14_amd64.json.xz"
+ ],
+ "Linux version 6.6.0-14-lowlatency (buildd@lcy02-amd64-112) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-7ubuntu1) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #14.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Dec  1 10:58:44 UTC 2023 (Ubuntu 6.6.0-14.14.1-lowlatency 6.6.3)": [
+  "Ubuntu/amd64/6.6.0/14/lowlatency/Ubuntu_6.6.0-14-lowlatency_6.6.0-14.14.1_amd64.json.xz"
+ ],
+ "Linux version 6.6.0-1001-aws (buildd@lcy02-amd64-112) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-7ubuntu1) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #1-Ubuntu SMP Thu Nov 30 14:12:59 UTC 2023 (Ubuntu 6.6.0-1001.1-aws 6.6.3)": [
+  "Ubuntu/amd64/6.6.0/1001/aws/Ubuntu_6.6.0-1001-aws_6.6.0-1001.1_amd64.json.xz"
+ ],
+ "Linux version 6.6.0-1001-azure (buildd@lcy02-amd64-075) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-7ubuntu1) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #1-Ubuntu SMP Fri Dec  1 11:34:03 UTC 2023 (Ubuntu 6.6.0-1001.1-azure 6.6.3)": [
+  "Ubuntu/amd64/6.6.0/1001/azure/Ubuntu_6.6.0-1001-azure_6.6.0-1001.1_amd64.json.xz"
+ ],
+ "Linux version 6.6.0-1001-gcp (buildd@lcy02-amd64-008) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-7ubuntu1) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #1-Ubuntu SMP Fri Dec  1 10:07:58 UTC 2023 (Ubuntu 6.6.0-1001.1-gcp 6.6.3)": [
+  "Ubuntu/amd64/6.6.0/1001/gcp/Ubuntu_6.6.0-1001-gcp_6.6.0-1001.1_amd64.json.xz"
+ ],
+ "Linux version 6.6.0-1001-oracle (buildd@lcy02-amd64-033) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-7ubuntu1) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #1-Ubuntu SMP Thu Nov 30 17:29:05 UTC 2023 (Ubuntu 6.6.0-1001.1-oracle 6.6.3)": [
+  "Ubuntu/amd64/6.6.0/1001/oracle/Ubuntu_6.6.0-1001-oracle_6.6.0-1001.1_amd64.json.xz"
  ]
 }
