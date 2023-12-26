@@ -16980,6 +16980,9 @@
  "Linux version 5.14.0-362.13.1.el9_3.x86_64+rt (mockbuild@iad1-prod-build001.bld.equ.rockylinux.org) (gcc (GCC) 11.4.1 20230605 (Red Hat 11.4.1-2), GNU ld version 2.35.2-42.el9) #1 SMP PREEMPT_RT Wed Dec 13 13:57:00 UTC 2023": [
   "RockyLinux/x86_64/5.14.0/RockyLinux_5.14.0-362.13.1.el9_3_x86_64.json.xz"
  ],
+ "Linux version 5.14.0-362.13.1.el9_3.x86_64+rt (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 11.4.1 20230605 (Red Hat 11.4.1-2), GNU ld version 2.35.2-42.el9) #1 SMP PREEMPT_RT Thu Dec 21 07:03:36 EST 2023": [
+  "AlmaLinux/x86_64/5.14.0/AlmaLinux_5.14.0-362.13.1.el9_3_x86_64.json.xz"
+ ],
  "Linux version 5.14.0-kali4-amd64 (devel@kali.org) (gcc-10 (Debian 10.3.0-12) 10.3.0, GNU ld (GNU Binutils for Debian) 2.37) #1 SMP Debian 5.14.16-1kali1 (2021-11-05)": [
   "KaliLinux/amd64/5.14.0/KaliLinux_5.14.0-kali4-amd64_5.14.16-1kali1_amd64.json.xz"
  ],
@@ -20303,6 +20306,12 @@
  ],
  "Linux version 6.5.0-kali5-cloud-amd64 (devel@kali.org) (gcc-13 (Debian 13.2.0-5) 13.2.0, GNU ld (GNU Binutils for Debian) 2.41) #1 SMP PREEMPT_DYNAMIC Debian 6.5.10-1kali1 (2023-11-07)": [
   "KaliLinux/amd64/6.5.0/cloud/KaliLinux_6.5.0-kali5-cloud-amd64_6.5.10-1kali1_amd64.json.xz"
+ ],
+ "Linux version 6.5.0-kali6-amd64 (devel@kali.org) (gcc-13 (Debian 13.2.0-7) 13.2.0, GNU ld (GNU Binutils for Debian) 2.41.50.20231214) #1 SMP PREEMPT_DYNAMIC Debian 6.5.13-1kali2 (2023-12-20)": [
+  "KaliLinux/amd64/6.5.0/KaliLinux_6.5.0-kali6-amd64_6.5.13-1kali2_amd64.json.xz"
+ ],
+ "Linux version 6.5.0-kali6-cloud-amd64 (devel@kali.org) (gcc-13 (Debian 13.2.0-7) 13.2.0, GNU ld (GNU Binutils for Debian) 2.41.50.20231214) #1 SMP PREEMPT_DYNAMIC Debian 6.5.13-1kali2 (2023-12-20)": [
+  "KaliLinux/amd64/6.5.0/cloud/KaliLinux_6.5.0-kali6-cloud-amd64_6.5.13-1kali2_amd64.json.xz"
  ],
  "Linux version 6.6.0-13-generic (buildd@bos03-amd64-044) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-6ubuntu1) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.41) #13-Ubuntu SMP PREEMPT_DYNAMIC Tue Nov 21 15:42:23 UTC 2023 (Ubuntu 6.6.0-13.13-generic 6.6.2)": [
   "Ubuntu/amd64/6.6.0/13/generic/Ubuntu_6.6.0-13-generic_6.6.0-13.13_amd64.json.xz"
