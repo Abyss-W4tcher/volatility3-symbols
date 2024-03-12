@@ -708,6 +708,9 @@
  "Darwin Kernel Version 21.6.0: Mon Aug 22 20:17:10 PDT 2022; root:xnu-8020.140.49~2/RELEASE_X86_64": [
   "macOS/12.6/macOS_KDK_12.6_build-21G115.json.xz"
  ],
+ "Darwin Kernel Version 21.6.0: Mon Feb 19 20:24:34 PST 2024; root:xnu-8020.240.18.707.4~1/RELEASE_X86_64": [
+  "macOS/12.7/macOS_KDK_12.7.4_build-21H1123.json.xz"
+ ],
  "Darwin Kernel Version 21.6.0: Mon Jun  6 19:48:10 PDT 2022; root:xnu-8020.140.36.131.1~1/RELEASE_X86_64": [
   "macOS/12.5/macOS_KDK_12.5_build-21G5046c.json.xz"
  ],
@@ -811,6 +814,9 @@
  ],
  "Darwin Kernel Version 22.6.0: Fri Sep 15 13:39:52 PDT 2023; root:xnu-8796.141.3.700.8~1/RELEASE_X86_64": [
   "macOS/13.6/macOS_KDK_13.6_build-22G120.json.xz"
+ ],
+ "Darwin Kernel Version 22.6.0: Mon Feb 19 19:48:53 PST 2024; root:xnu-8796.141.3.704.6~1/RELEASE_X86_64": [
+  "macOS/13.6/macOS_KDK_13.6.5_build-22G621.json.xz"
  ],
  "Darwin Kernel Version 22.6.0: Mon May 22 20:20:53 PDT 2023; root:xnu-8796.140.17.505.3~3/RELEASE_X86_64": [
   "macOS/13.5/macOS_KDK_13.5_build-22G5038d.json.xz"
