@@ -57,6 +57,7 @@ def search_debug_symbols(version_short, version_extended, arch) -> str:
                     print(
                         f"Detected URL {check} but download link couldn't be extracted."
                     )
+                    continue
                 return download_url
     else:
         print("Couldn't find debug symbols.")
