@@ -85,6 +85,6 @@ for banner, paths in plain_banners.items():
 
     vol_banners[key][b64encode(banner).decode()] = paths_out
 
-vol_banners = json.dumps(vol_banners)
+vol_banners = json.dumps(vol_banners, separators=(",", ":"))
 with open(BANNERS_VOL_FILE, "w+") as f:
     f.write(vol_banners)
