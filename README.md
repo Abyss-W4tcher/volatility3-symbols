@@ -9,6 +9,10 @@
 ![](https://img.shields.io/badge/RockyLinux-x86__64-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=rockylinux)  
 ![](https://img.shields.io/badge/macOS-amd64%20|%20i386-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=macos)  
 
+## 19/07/24
+
+Repository is in standby, waiting for a fix regarding an issue in the ISF generator tool : https://github.com/volatilityfoundation/dwarf2json/issues/63
+
 ## Related work 
 
 A similar project for Volatility2 profiles is available here : https://github.com/Abyss-W4tcher/volatility2-profiles
