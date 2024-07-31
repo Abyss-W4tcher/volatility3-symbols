@@ -711,6 +711,9 @@
  "Darwin Kernel Version 21.6.0: Mon Feb 19 20:24:34 PST 2024; root:xnu-8020.240.18.707.4~1/RELEASE_X86_64": [
   "macOS/12.7/macOS_KDK_12.7.4_build-21H1123.json.xz"
  ],
+ "Darwin Kernel Version 21.6.0: Mon Jun 24 00:56:10 PDT 2024; root:xnu-8020.240.18.709.2~1/RELEASE_X86_64": [
+  "macOS/12.7/macOS_KDK_12.7.6_build-21H1320.json.xz"
+ ],
  "Darwin Kernel Version 21.6.0: Mon Jun  6 19:48:10 PDT 2022; root:xnu-8020.140.36.131.1~1/RELEASE_X86_64": [
   "macOS/12.5/macOS_KDK_12.5_build-21G5046c.json.xz"
  ],
@@ -817,6 +820,9 @@
  ],
  "Darwin Kernel Version 22.6.0: Mon Feb 19 19:48:53 PST 2024; root:xnu-8796.141.3.704.6~1/RELEASE_X86_64": [
   "macOS/13.6/macOS_KDK_13.6.5_build-22G621.json.xz"
+ ],
+ "Darwin Kernel Version 22.6.0: Mon Jun 24 01:25:37 PDT 2024; root:xnu-8796.141.3.706.2~1/RELEASE_X86_64": [
+  "macOS/13.6/macOS_KDK_13.6.8_build-22G820.json.xz"
  ],
  "Darwin Kernel Version 22.6.0: Mon May 22 20:20:53 PDT 2023; root:xnu-8796.140.17.505.3~3/RELEASE_X86_64": [
   "macOS/13.5/macOS_KDK_13.5_build-22G5038d.json.xz"
@@ -927,6 +933,33 @@
  ],
  "Darwin Kernel Version 23.5.0: Wed Apr 24 21:23:04 PDT 2024; root:xnu-10063.121.3~3/RELEASE_X86_64": [
   "macOS/14.5/macOS_KDK_14.5_build-23F5074a.json.xz"
+ ],
+ "Darwin Kernel Version 23.6.0: Fri Jul  5 17:54:20 PDT 2024; root:xnu-10063.141.1~2/RELEASE_X86_64": [
+  "macOS/14.6/macOS_KDK_14.6_build-23G80.json.xz"
+ ],
+ "Darwin Kernel Version 23.6.0: Sun Jun 30 19:41:32 PDT 2024; root:xnu-10063.140.33~20/RELEASE_X86_64": [
+  "macOS/14.6/macOS_KDK_14.6_build-23G5066c.json.xz"
+ ],
+ "Darwin Kernel Version 23.6.0: Tue Jun 11 21:04:47 PDT 2024; root:xnu-10063.140.28.501.1~1/RELEASE_X86_64": [
+  "macOS/14.6/macOS_KDK_14.6_build-23G5052d.json.xz"
+ ],
+ "Darwin Kernel Version 23.6.0: Wed Jul 10 01:19:39 PDT 2024; root:xnu-10063.141.1~4/RELEASE_X86_64": [
+  "macOS/14.6/macOS_KDK_14.6_build-23G5075b.json.xz"
+ ],
+ "Darwin Kernel Version 24.0.0: Mon Jul  1 21:56:48 PDT 2024; root:xnu-11215.0.132.501.1~1/RELEASE_X86_64": [
+  "macOS/15.0/macOS_KDK_15.0_build-24A5289h.json.xz"
+ ],
+ "Darwin Kernel Version 24.0.0: Sat Jul 13 00:58:03 PDT 2024; root:xnu-11215.0.165.0.4~50/RELEASE_X86_64": [
+  "macOS/15.0/macOS_KDK_15.0_build-24A5298h.json.xz"
+ ],
+ "Darwin Kernel Version 24.0.0: Thu Jun 20 20:36:19 PDT 2024; root:xnu-11215.0.115.501.3~1/RELEASE_X86_64": [
+  "macOS/14.6/macOS_KDK_14.6_build-24A5279h.json.xz"
+ ],
+ "Darwin Kernel Version 24.0.0: Thu May 30 21:30:05 PDT 2024; root:xnu-11215.0.31.511.2~1/RELEASE_X86_64": [
+  "macOS/15.0/macOS_KDK_15.0_build-24A5264n.json.xz"
+ ],
+ "Darwin Kernel Version 24.1.0: Sun Jul 14 12:08:29 PDT 2024; root:xnu-11215.0.165.0.4~64/RELEASE_X86_64": [
+  "macOS/15.1/macOS_KDK_15.1_build-24B5009l.json.xz"
  ],
  "Linux version 2.6.32-5-amd64 (Debian 2.6.32-13) (maks@debian.org) (gcc version 4.3.4 (Debian 4.3.4-10) ) #1 SMP Mon May 17 17:51:57 UTC 2010": [
   "Debian/amd64/2.6.32/5/Debian_2.6.32-5-amd64_2.6.32-13_amd64.json.xz"
