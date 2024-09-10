@@ -32,13 +32,11 @@ Explore the "banners/banners_plain.json" file to match banners and symbols quick
 
 Adding a new distribution is not particularly an issue, and I'd like to include as much as I can. However, I do not want to push the repository size too far, to avoid a potential removal by GitHub.
 
-- *Why can't I locate symbols for a particular subversion of a listed distribution ?*
+- *I can't find a specific kernel release in your repository, is there a way to generate the ISF manually ?*
 
-    - Ubuntu :
-        It appears that debug symbols for pre-release and test kernels aren't automatically generated along the kernel source code, in [Ubuntu ddebs mirror](http://ddebs.ubuntu.com/).
-      You might want to take a look at the [Canonical Kernel Team](https://launchpad.net/~canonical-kernel-team/+archive/ubuntu/ppa) PPA, for non-stable kernels. Check out issue [#27](https://github.com/Abyss-W4tcher/volatility3-symbols/issues/27) for an example.
-      
-Due to missing dependencies, some kernels specific versions may not be available here. 
+Depending on the release policy of a kernel editor, some versions might be considered "experimental" or "unstable", hence never making it to the "official" debug repositories (or at least not for a long time).
+
+Take a look at the `symbols_finders/` directory, to help you find kernel packages not available in this repository or in the classic editor sources.
 
 ## macOS
 
