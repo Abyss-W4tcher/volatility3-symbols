@@ -24,7 +24,7 @@
 
 Place every compressed symbol file you plan to use inside your `[volatility3_installation]/volatility3/symbols/linux/` directory (create it if needed).
 
-Explore the "banners/banners_plain.json" file to match banners and symbols quickly.
+Explore the `banners/banners_plain.json` file to match banners and symbols quickly.
 
 ## FAQ
 
