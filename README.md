@@ -9,12 +9,6 @@
 ![](https://img.shields.io/badge/RockyLinux-x86__64-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=rockylinux)  
 ![](https://img.shields.io/badge/macOS-amd64%20|%20i386-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=macos)  
 
-## Related work 
-
-A similar project for Volatility2 profiles is available here : https://github.com/Abyss-W4tcher/volatility2-profiles
-
-EZ Volatility install script : https://github.com/Abyss-W4tcher/volatility-scripts/tree/master/vol_ez_install
-
 ## Format
 
 | Distribution | Path | Symbols | Example |
@@ -62,3 +56,9 @@ Volatility3 provides a new feature allowing users to specify a remote symbols so
 VOLATILITY3_PATH=/path/to/volatility3_install/ # Edit accordingly
 sed -i 's@REMOTE_ISF_URL = None@REMOTE_ISF_URL = "https://github.com/Abyss-W4tcher/volatility3-symbols/raw/master/banners/banners.json"@g' "$VOLATILITY3_PATH/volatility3/framework/constants/__init__.py"
 ```
+
+## Related work 
+
+A similar project for Volatility2 profiles is available here : https://github.com/Abyss-W4tcher/volatility2-profiles
+
+EZ Volatility install script : https://github.com/Abyss-W4tcher/volatility-scripts/tree/master/vol_ez_install
