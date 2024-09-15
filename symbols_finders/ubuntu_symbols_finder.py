@@ -80,7 +80,7 @@ def main():
     procedure = f"""
 wget {download_url}
 dpkg-deb -x {ddeb_filename} {ddeb_filename_without_extension}/
-dwarf2json linux --elf {ddeb_filename_without_extension}/usr/lib/debug/boot/{version_short} | xz > {ddeb_filename_without_extension}.json.xz"""
+dwarf2json linux --elf {ddeb_filename_without_extension}/usr/lib/debug/boot/vmlinux-{version_short} | xz > {ddeb_filename_without_extension}.json.xz"""
     print(
         f"Debug symbols should be available at {download_url}. Here is a typical procedure to create the ISF :\n{procedure}"
     )
