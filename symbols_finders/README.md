@@ -53,4 +53,115 @@ grep -a 'Linux version' vmlinux-virt
 Linux version 5.10.180-0-virt (buildozer@build-3-14-x86_64) (gcc (Alpine 10.3.1_git20210424) 10.3.1 20210424, GNU ld (GNU Binutils) 2.35.2) #1-Alpine SMP Thu, 18 May 2023 08:53:16 +0000
 ```
 
-Then, you can construct the ISF with dwarf2json.
+If you notice that the vmlinux file is stripped, it means that it does not embed debug symbols, hence making it unusable for dwarf2json use. However, you can follow the next section for a solution to generate a valid ISF.
+
+### Kernel compilation
+
+*Requirements* : 10GB storage, `docker`, a copy of `dwarf2json`
+
+Inside the previously created `extracted_apk/boot/` directory, we can find the `System.map-virt` file, which contains exported kernel symbols addresses. This is half of the information needed to construct the ISF. Now, we still need to generate the kernel types, which embeds the structures definitions. 
+
+To do so, we will compile the target Alpine Linux kernel, before merging it with the `System.map`. Place yourself in the same directory where you downloaded the `.apk` packages, then follow (and adapt when needed) the procedure :
+
+```sh
+# When available, use a close version match (here 3.14)
+docker run -it -v $(pwd):/bind alpine:3.14
+## Now, we are inside the container ##
+# Update and install required packages
+apk update
+apk add nano vim sudo wget alpine-sdk
+
+# Create a "builder" user, with sudo capabilities for convenience
+adduser -D builder
+addgroup builder abuild
+echo "builder ALL=(ALL) NOPASSWD:ALL" > /etc/sudoers.d/builder
+# Switch to the builder user
+su - builder
+
+# Clone the alpine aports source repository
+git clone https://github.com/alpinelinux/aports
+# Navigate to the main "linux-lts" source
+cd aports/main/linux-lts
+# Search for a commit mentioning the kernel version we want to compile
+$ git --no-pager log --all --decorate=short --pretty=oneline -S '5.10.180' -- APKBUILD
+fc280c1ca71ab3f3883dd3e9fb9713996f69a22d (HEAD) main/linux-lts: upgrade to 5.10.180
+# Checkout to the appropriate commit
+git checkout fc280c1ca71ab3f3883dd3e9fb9713996f69a22d
+```
+
+Remove the "lts" or "virt" line from APKFILE, accordingly to the kernel version you want to compile. Otherwise, both "lts" and "virt" kernel version will be compiled :
+
+```
+lts.aarch64.config
+lts.armv7.config
+lts.x86.config
+lts.x86_64.config <-- in our case, remove this line
+lts.ppc64le.config
+lts.s390x.config
+lts.loongarch64.config
+
+virt.aarch64.config
+virt.armv7.config
+virt.ppc64le.config
+virt.x86.config
+virt.x86_64.config
+```
+
+```sh
+# Make use of all the available CPU cores when compiling
+sed -i 's/make /make -j $(nproc) /g' APKBUILD
+
+# Regenerate checksums, fetch dependencies and kernel source
+abuild checksum
+abuild deps 
+abuild unpack
+
+# Set the appropriate config options
+# <!> Modify the paths accordingly <!>
+CONFIG_FILE="$(readlink -f config-virt.x86_64)"
+CONFIG_SCRIPT="$(readlink -f src/linux-5.10/scripts/config)"
+$CONFIG_SCRIPT --file "$CONFIG_FILE" --enable CONFIG_DEBUG_INFO
+$CONFIG_SCRIPT --file "$CONFIG_FILE" --disable CONFIG_DEBUG_INFO_REDUCED 
+$CONFIG_SCRIPT --file "$CONFIG_FILE" --disable DEBUG_INFO_COMPRESSED
+$CONFIG_SCRIPT --file "$CONFIG_FILE" --disable DEBUG_INFO_SPLIT
+$CONFIG_SCRIPT --file "$CONFIG_FILE" --disable DEBUG_INFO_DWARF4
+$CONFIG_SCRIPT --file "$CONFIG_FILE" --disable DEBUG_INFO_BTF
+
+# Regenerate checksums, prepare and make the kernel build (it may take a while)
+abuild checksum
+abuild prepare
+abuild build
+
+# Once finished, check out the build directory
+ls src/build-virt.x86_64/
+# Copy the vmlinux file to the host
+sudo cp /src/build-virt.x86_64/vmlinux /bind/
+
+## Back to the host ##
+# Generate an ISF combining the freshly compiled vmlinux and the System.map
+./dwarf2json linux --elf vmlinux --system-map extracted_apk/boot/System.map-virt > elf_sysmap.json
+
+# Now, we need to update the banner inside the ISF, accordingly to the one from the memory sample we want to analyze
+$ new_banner='Linux version 5.10.180-0-virt (buildozer@build-3-14-x86_64) (gcc (Alpine 10.3.1_git20210424) 10.3.1 20210424, GNU ld (GNU Binutils) 2.35.2) #1-Alpine SMP Thu, 18 May 2023 08:53:16 +0000'
+$ printf "%s\n\0" "$new_banner" | base64 -w0; echo
+TGludXggdmVyc2lvbiA1LjEwLjE4MC0wLXZpcnQgKGJ1aWxkb3plckBidWlsZC0zLTE0LXg4Nl82NCkgKGdjYyAoQWxwaW5lIDEwLjMuMV9naXQyMDIxMDQyNCkgMTAuMy4xIDIwMjEwNDI0LCBHTlUgbGQgKEdOVSBCaW51dGlscykgMi4zNS4yKSAjMS1BbHBpbmUgU01QIFRodSwgMTggTWF5IDIwMjMgMDg6NTM6MTYgKzAwMDAKAA==
+```
+
+Open your favorite text editor, and patch the "constant_data" field of the "linux_banner" symbol : 
+
+```json
+"linux_banner": {
+    "type": {
+    "count": 0,
+    "kind": "array",
+    "subtype": {
+        "kind": "base",
+        "name": "char"
+    }
+    },
+    "address": <DO_NOT_CHANGE_ME>,
+    "constant_data": "<CHANGE_ME>"
+}
+```
+
+You should now have a fully functional ISF to help you conduct the memory investigation !
