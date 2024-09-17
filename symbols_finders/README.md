@@ -165,3 +165,8 @@ Open your favorite text editor, and patch the "constant_data" field of the "linu
 ```
 
 You should now have a fully functional ISF to help you conduct the memory investigation !
+
+Ressources : 
+- https://strfry.github.io/blog/building-alpine-kernel.html
+- https://wiki.alpinelinux.org/wiki/Custom_Kernel
+- https://che-adrian.medium.com/how-to-cross-compile-alpine-linux-apk-packages-fae8a75aee88
