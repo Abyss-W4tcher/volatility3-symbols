@@ -89,11 +89,10 @@ Here are some discussions about it :
 
 ## Fetching symbols automatically
 
-Volatility3 provides a new feature allowing users to specify a remote symbols source to be queried when analyzing a memory dump. To test this feature in your local installation, run the following commands :
+Volatility3 provides a new feature allowing users to specify a remote ISF source to be queried when analyzing a memory dump. To test this feature in your local installation, add the following argument :
 
 ```sh
-VOLATILITY3_PATH=/path/to/volatility3_install/ # Edit accordingly
-sed -i 's@REMOTE_ISF_URL = None@REMOTE_ISF_URL = "https://github.com/Abyss-W4tcher/volatility3-symbols/raw/master/banners/banners.json"@g' "$VOLATILITY3_PATH/volatility3/framework/constants/__init__.py"
+python3 vol.py --remote-isf-url 'https://github.com/Abyss-W4tcher/volatility3-symbols/raw/master/banners/banners.json' -f <memory_dump> <plugin>
 ```
 
 ## Related work 
