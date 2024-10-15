@@ -12,7 +12,7 @@ Debug symbols should be available at http://launchpadlibrarian.net/612559099/lin
 
 wget http://launchpadlibrarian.net/612559099/linux-image-unsigned-5.15.0-43-generic-dbgsym_5.15.0-43.46_amd64.ddeb
 dpkg-deb -x linux-image-unsigned-5.15.0-43-generic-dbgsym_5.15.0-43.46_amd64.ddeb linux-image-unsigned-5.15.0-43-generic-dbgsym_5.15.0-43.46_amd64/
-dwarf2json linux --elf linux-image-unsigned-5.15.0-43-generic-dbgsym_5.15.0-43.46_amd64/usr/lib/debug/boot/5.15.0-43-generic | xz > linux-image-unsigned-5.15.0-43-generic-dbgsym_5.15.0-43.46_amd64.json.xz
+dwarf2json linux --elf linux-image-unsigned-5.15.0-43-generic-dbgsym_5.15.0-43.46_amd64/usr/lib/debug/boot/vmlinux-5.15.0-43-generic | xz > linux-image-unsigned-5.15.0-43-generic-dbgsym_5.15.0-43.46_amd64.json.xz
 ```
 
 ## Alpine symbols finder 
