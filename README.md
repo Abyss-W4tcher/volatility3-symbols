@@ -14,7 +14,7 @@
 Conducting memory analysis with Volatility3 against a Linux or macOS RAM capture, requires of an investigator to acquire appropriate kernel debugging information. 
 As a compiled kernel produces a unique copy of this data, it can sometimes be tedious to access, manipulate, and transform it into the universal JSON **I**ntermediate **S**ymbol **F**ile format (required by Volatility3).
 
-To save time, CPU, and bandwidth across the world, this repository contains a collection of ISF, generated against kernel sources from the most popular kernel distributions.
+To save time, CPU, and bandwidth across the world, this repository contains a collection of ISF, generated from kernel sources of the most popular distributions.
 
 ## Usage
 
@@ -43,7 +43,7 @@ forensic-machine@analyst:~$ grep -A 2 'Linux version 3.2.0-4-amd64 (debian-kerne
  ],
 ```
 
-We got a match 🚀 ! Now, we can easily download the appropriate ISF directly in the Volatility3 symbols directory : 
+We've got a match 🚀 ! Now, we can easily download the appropriate ISF directly in the Volatility3 symbols directory : 
 
 ```console
 # Create <volatility3_installation>/volatility3/symbols/linux/ beforehand if it doesn't exist
