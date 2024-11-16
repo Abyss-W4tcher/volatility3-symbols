@@ -10693,6 +10693,18 @@
  "Linux version 4.18.0-553.22.1.rt7.363.el8_10.x86_64 (mockbuild@x64-builder02.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-22) (GCC)) #1 SMP PREEMPT_RT Tue Sep 24 05:06:48 EDT 2024": [
   "AlmaLinux/x86_64/4.18.0/rt/AlmaLinux_4.18.0-553.22.1.rt7.363.el8_10_x86_64.json.xz"
  ],
+ "Linux version 4.18.0-553.27.1.el8_10.x86_64 (mockbuild@iad1-prod-build001.bld.equ.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-22) (GCC)) #1 SMP Wed Nov 6 14:29:02 UTC 2024": [
+  "RockyLinux/x86_64/4.18.0/RockyLinux_4.18.0-553.27.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.27.1.el8_10.x86_64 (mockbuild@x64-builder02.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-22) (GCC)) #1 SMP Tue Nov 5 04:50:16 EST 2024": [
+  "AlmaLinux/x86_64/4.18.0/AlmaLinux_4.18.0-553.27.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.27.1.rt7.368.el8_10.x86_64 (mockbuild@iad1-prod-build001.bld.equ.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-22) (GCC)) #1 SMP PREEMPT_RT Wed Nov 6 15:42:29 UTC 2024": [
+  "RockyLinux/x86_64/4.18.0/rt/RockyLinux_4.18.0-553.27.1.rt7.368.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.27.1.rt7.368.el8_10.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-22) (GCC)) #1 SMP PREEMPT_RT Tue Nov 5 04:52:20 EST 2024": [
+  "AlmaLinux/x86_64/4.18.0/rt/AlmaLinux_4.18.0-553.27.1.rt7.368.el8_10_x86_64.json.xz"
+ ],
  "Linux version 4.18.0-553.el8_10.x86_64 (mockbuild@iad1-prod-build001.bld.equ.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-22) (GCC)) #1 SMP Fri May 24 13:05:10 UTC 2024": [
   "RockyLinux/x86_64/4.18.0/RockyLinux_4.18.0-553.el8_10_x86_64.json.xz"
  ],
@@ -16333,6 +16345,18 @@
  "Linux version 5.14.0-427.40.1.el9_4.x86_64+rt (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 11.4.1 20231218 (Red Hat 11.4.1-3), GNU ld version 2.35.2-43.el9) #1 SMP PREEMPT_RT Wed Oct 16 06:58:31 EDT 2024": [
   "AlmaLinux/x86_64/5.14.0/rt/AlmaLinux_5.14.0-427.40.1.el9_4_x86_64.json.xz"
  ],
+ "Linux version 5.14.0-427.42.1.el9_4.x86_64 (mockbuild@iad1-prod-build001.bld.equ.rockylinux.org) (gcc (GCC) 11.4.1 20231218 (Red Hat 11.4.1-3), GNU ld version 2.35.2-43.el9) #1 SMP PREEMPT_DYNAMIC Thu Oct 31 14:01:51 UTC 2024": [
+  "RockyLinux/x86_64/5.14.0/RockyLinux_5.14.0-427.42.1.el9_4_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-427.42.1.el9_4.x86_64 (mockbuild@x64-builder02.almalinux.org) (gcc (GCC) 11.4.1 20231218 (Red Hat 11.4.1-3), GNU ld version 2.35.2-43.el9) #1 SMP PREEMPT_DYNAMIC Fri Nov 1 14:58:02 EDT 2024": [
+  "AlmaLinux/x86_64/5.14.0/AlmaLinux_5.14.0-427.42.1.el9_4_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-427.42.1.el9_4.x86_64+rt (mockbuild@iad1-prod-build001.bld.equ.rockylinux.org) (gcc (GCC) 11.4.1 20231218 (Red Hat 11.4.1-3), GNU ld version 2.35.2-43.el9) #1 SMP PREEMPT_RT Thu Oct 31 13:49:47 UTC 2024": [
+  "RockyLinux/x86_64/5.14.0/rt/RockyLinux_5.14.0-427.42.1.el9_4_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-427.42.1.el9_4.x86_64+rt (mockbuild@x64-builder02.almalinux.org) (gcc (GCC) 11.4.1 20231218 (Red Hat 11.4.1-3), GNU ld version 2.35.2-43.el9) #1 SMP PREEMPT_RT Fri Nov 1 14:49:35 EDT 2024": [
+  "AlmaLinux/x86_64/5.14.0/rt/AlmaLinux_5.14.0-427.42.1.el9_4_x86_64.json.xz"
+ ],
  "Linux version 5.14.0-427.el9.x86_64 (mockbuild@x64-builder02.almalinux.org) (gcc (GCC) 11.4.1 20231218 (Red Hat 11.4.1-3), GNU ld version 2.35.2-43.el9) #1 SMP PREEMPT_DYNAMIC Tue Apr 9 14:45:07 EDT 2024": [
   "AlmaLinux/x86_64/5.14.0/AlmaLinux_5.14.0-427.el9_x86_64.json.xz"
  ],
@@ -16344,6 +16368,12 @@
  ],
  "Linux version 5.14.0-503.2.1.el9_5.x86_64+rt (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-2), GNU ld version 2.35.2-43.el9) #1 SMP PREEMPT_RT Tue Oct 1 03:51:38 EDT 2024": [
   "AlmaLinux/x86_64/5.14.0/rt/AlmaLinux_5.14.0-503.2.1.el9_5_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-503.11.1.el9_5.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-2), GNU ld version 2.35.2-54.el9) #1 SMP PREEMPT_DYNAMIC Tue Nov 12 09:26:13 EST 2024": [
+  "AlmaLinux/x86_64/5.14.0/AlmaLinux_5.14.0-503.11.1.el9_5_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-503.11.1.el9_5.x86_64+rt (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-2), GNU ld version 2.35.2-54.el9) #1 SMP PREEMPT_RT Tue Nov 12 09:15:03 EST 2024": [
+  "AlmaLinux/x86_64/5.14.0/rt/AlmaLinux_5.14.0-503.11.1.el9_5_x86_64.json.xz"
  ],
  "Linux version 5.14.0-kali4-amd64 (devel@kali.org) (gcc-10 (Debian 10.3.0-12) 10.3.0, GNU ld (GNU Binutils for Debian) 2.37) #1 SMP Debian 5.14.16-1kali1 (2021-11-05)": [
   "KaliLinux/amd64/5.14.0/KaliLinux_5.14.0-kali4-amd64_5.14.16-1kali1_amd64.json.xz"
@@ -18601,6 +18631,12 @@
  "Linux version 5.15.0-1065-gke (buildd@lcy02-amd64-001) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #71-Ubuntu SMP Fri Aug 9 15:38:51 UTC 2024 (Ubuntu 5.15.0-1065.71-gke 5.15.160)": [
   "Ubuntu/amd64/5.15.0/1065/gke/Ubuntu_5.15.0-1065-gke_5.15.0-1065.71_amd64.json.xz"
  ],
+ "Linux version 5.15.0-1065-ibm (buildd@lcy02-amd64-026) (gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, GNU ld (GNU Binutils for Ubuntu) 2.34) #68~20.04.1-Ubuntu SMP Tue Oct 22 15:50:17 UTC 2024 (Ubuntu 5.15.0-1065.68~20.04.1-ibm 5.15.167)": [
+  "Ubuntu/amd64/5.15.0/1065/ibm/Ubuntu_5.15.0-1065-ibm_5.15.0-1065.68~20.04.1_amd64.json.xz"
+ ],
+ "Linux version 5.15.0-1065-ibm (buildd@lcy02-amd64-107) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #68-Ubuntu SMP Mon Oct 21 14:47:52 UTC 2024 (Ubuntu 5.15.0-1065.68-ibm 5.15.167)": [
+  "Ubuntu/amd64/5.15.0/1065/ibm/Ubuntu_5.15.0-1065-ibm_5.15.0-1065.68_amd64.json.xz"
+ ],
  "Linux version 5.15.0-1065-intel-iotg (buildd@lcy02-amd64-025) (gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, GNU ld (GNU Binutils for Ubuntu) 2.34) #71~20.04.1-Ubuntu SMP Wed Sep 4 18:28:58 UTC 2024 (Ubuntu 5.15.0-1065.71~20.04.1-intel-iotg 5.15.163)": [
   "Ubuntu/amd64/5.15.0/1065/intel-iotg/Ubuntu_5.15.0-1065-intel-iotg_5.15.0-1065.71~20.04.1_amd64.json.xz"
  ],
@@ -19968,6 +20004,15 @@
  ],
  "Linux version 6.1.0-26-rt-amd64 (debian-kernel@lists.debian.org) (gcc-12 (Debian 12.2.0-14) 12.2.0, GNU ld (GNU Binutils for Debian) 2.40) #1 SMP PREEMPT_RT Debian 6.1.112-1 (2024-09-30)": [
   "Debian/amd64/6.1.0/26/rt/Debian_6.1.0-26-rt-amd64_6.1.112-1_amd64.json.xz"
+ ],
+ "Linux version 6.1.0-27-amd64 (debian-kernel@lists.debian.org) (gcc-12 (Debian 12.2.0-14) 12.2.0, GNU ld (GNU Binutils for Debian) 2.40) #1 SMP PREEMPT_DYNAMIC Debian 6.1.115-1 (2024-11-01)": [
+  "Debian/amd64/6.1.0/27/Debian_6.1.0-27-amd64_6.1.115-1_amd64.json.xz"
+ ],
+ "Linux version 6.1.0-27-cloud-amd64 (debian-kernel@lists.debian.org) (gcc-12 (Debian 12.2.0-14) 12.2.0, GNU ld (GNU Binutils for Debian) 2.40) #1 SMP PREEMPT_DYNAMIC Debian 6.1.115-1 (2024-11-01)": [
+  "Debian/amd64/6.1.0/27/cloud/Debian_6.1.0-27-cloud-amd64_6.1.115-1_amd64.json.xz"
+ ],
+ "Linux version 6.1.0-27-rt-amd64 (debian-kernel@lists.debian.org) (gcc-12 (Debian 12.2.0-14) 12.2.0, GNU ld (GNU Binutils for Debian) 2.40) #1 SMP PREEMPT_RT Debian 6.1.115-1 (2024-11-01)": [
+  "Debian/amd64/6.1.0/27/rt/Debian_6.1.0-27-rt-amd64_6.1.115-1_amd64.json.xz"
  ],
  "Linux version 6.1.0-1012-oem (buildd@lcy02-amd64-026) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.1.0-2ubuntu1~22.04) 12.1.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #12-Ubuntu SMP PREEMPT_DYNAMIC Tue May  9 17:12:06 UTC 2023": [
   "Ubuntu/amd64/6.1.0/1012/oem/Ubuntu_6.1.0-1012-oem_6.1.0-1012.12_amd64.json.xz"
@@ -22345,6 +22390,9 @@
  "Linux version 6.11.0-1002-lowlatency (buildd@lcy02-amd64-090) (x86_64-linux-gnu-gcc-14 (Ubuntu 14.2.0-4ubuntu2) 14.2.0, GNU ld (GNU Binutils for Ubuntu) 2.43.1) #2-Ubuntu SMP PREEMPT_DYNAMIC Tue Sep 10 08:06:06 UTC 2024 (Ubuntu 6.11.0-1002.2-lowlatency 6.11.0-rc7)": [
   "Ubuntu/amd64/6.11.0/1002/lowlatency/Ubuntu_6.11.0-1002-lowlatency_6.11.0-1002.2_amd64.json.xz"
  ],
+ "Linux version 6.11.0-1002-nvidia (buildd@lcy02-amd64-049) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-23ubuntu4) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #2-Ubuntu SMP PREEMPT_DYNAMIC Wed Oct 23 16:19:35 UTC 2024 (Ubuntu 6.11.0-1002.2-nvidia 6.11.0)": [
+  "Ubuntu/amd64/6.11.0/1002/nvidia/Ubuntu_6.11.0-1002-nvidia_6.11.0-1002.2_amd64.json.xz"
+ ],
  "Linux version 6.11.0-1002-oem (buildd@lcy02-amd64-120) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-23ubuntu4) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #2-Ubuntu SMP PREEMPT_DYNAMIC Mon Aug 19 13:26:58 UTC 2024 (Ubuntu 6.11.0-1002.2-oem 6.11.0-rc4)": [
   "Ubuntu/amd64/6.11.0/1002/oem/Ubuntu_6.11.0-1002-oem_6.11.0-1002.2_amd64.json.xz"
  ],
@@ -22390,6 +22438,9 @@
  "Linux version 6.11.0-1006-oracle (buildd@lcy02-amd64-025) (x86_64-linux-gnu-gcc-14 (Ubuntu 14.2.0-4ubuntu2) 14.2.0, GNU ld (GNU Binutils for Ubuntu) 2.43.1) #6-Ubuntu SMP Fri Sep 27 15:23:59 UTC 2024 (Ubuntu 6.11.0-1006.6-oracle 6.11.0)": [
   "Ubuntu/amd64/6.11.0/1006/oracle/Ubuntu_6.11.0-1006-oracle_6.11.0-1006.6_amd64.json.xz"
  ],
+ "Linux version 6.11.0-1007-oem (buildd@lcy02-amd64-093) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-23ubuntu4) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #7-Ubuntu SMP PREEMPT_DYNAMIC Thu Oct 24 15:07:38 UTC 2024 (Ubuntu 6.11.0-1007.7-oem 6.11.0)": [
+  "Ubuntu/amd64/6.11.0/1007/oem/Ubuntu_6.11.0-1007-oem_6.11.0-1007.7_amd64.json.xz"
+ ],
  "Linux version 6.11.0-1007-oracle (buildd@lcy02-amd64-070) (x86_64-linux-gnu-gcc-14 (Ubuntu 14.2.0-4ubuntu2) 14.2.0, GNU ld (GNU Binutils for Ubuntu) 2.43.1) #7-Ubuntu SMP Mon Oct 14 14:57:10 UTC 2024 (Ubuntu 6.11.0-1007.7-oracle 6.11.0)": [
   "Ubuntu/amd64/6.11.0/1007/oracle/Ubuntu_6.11.0-1007-oracle_6.11.0-1007.7_amd64.json.xz"
  ],
@@ -22410,5 +22461,41 @@
  ],
  "Linux version 6.11.4-rt-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-14 (Debian 14.2.0-7) 14.2.0, GNU ld (GNU Binutils for Debian) 2.43.1) #1 SMP PREEMPT_RT Debian 6.11.4-1 (2024-10-20)": [
   "Debian/amd64/6.11.4/rt/Debian_6.11.4-rt-amd64_6.11.4-1_amd64.json.xz"
+ ],
+ "Linux version 6.11.5+bpo-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-12 (Debian 12.2.0-14) 12.2.0, GNU ld (GNU Binutils for Debian) 2.40) #1 SMP PREEMPT_DYNAMIC Debian 6.11.5-1~bpo12+1 (2024-11-11)": [
+  "Debian/amd64/6.11.5+bpo/Debian_6.11.5+bpo-amd64_6.11.5-1~bpo12+1_amd64.json.xz"
+ ],
+ "Linux version 6.11.5+bpo-cloud-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-12 (Debian 12.2.0-14) 12.2.0, GNU ld (GNU Binutils for Debian) 2.40) #1 SMP PREEMPT_DYNAMIC Debian 6.11.5-1~bpo12+1 (2024-11-11)": [
+  "Debian/amd64/6.11.5+bpo/cloud/Debian_6.11.5+bpo-cloud-amd64_6.11.5-1~bpo12+1_amd64.json.xz"
+ ],
+ "Linux version 6.11.5+bpo-rt-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-12 (Debian 12.2.0-14) 12.2.0, GNU ld (GNU Binutils for Debian) 2.40) #1 SMP PREEMPT_RT Debian 6.11.5-1~bpo12+1 (2024-11-11)": [
+  "Debian/amd64/6.11.5+bpo/rt/Debian_6.11.5+bpo-rt-amd64_6.11.5-1~bpo12+1_amd64.json.xz"
+ ],
+ "Linux version 6.11.5-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-14 (Debian 14.2.0-7) 14.2.0, GNU ld (GNU Binutils for Debian) 2.43.1) #1 SMP PREEMPT_DYNAMIC Debian 6.11.5-1 (2024-10-27)": [
+  "Debian/amd64/6.11.5/Debian_6.11.5-amd64_6.11.5-1_amd64.json.xz"
+ ],
+ "Linux version 6.11.5-cloud-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-14 (Debian 14.2.0-7) 14.2.0, GNU ld (GNU Binutils for Debian) 2.43.1) #1 SMP PREEMPT_DYNAMIC Debian 6.11.5-1 (2024-10-27)": [
+  "Debian/amd64/6.11.5/cloud/Debian_6.11.5-cloud-amd64_6.11.5-1_amd64.json.xz"
+ ],
+ "Linux version 6.11.5-rt-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-14 (Debian 14.2.0-7) 14.2.0, GNU ld (GNU Binutils for Debian) 2.43.1) #1 SMP PREEMPT_RT Debian 6.11.5-1 (2024-10-27)": [
+  "Debian/amd64/6.11.5/rt/Debian_6.11.5-rt-amd64_6.11.5-1_amd64.json.xz"
+ ],
+ "Linux version 6.11.6-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-14 (Debian 14.2.0-8) 14.2.0, GNU ld (GNU Binutils for Debian) 2.43.1) #1 SMP PREEMPT_DYNAMIC Debian 6.11.6-1 (2024-11-04)": [
+  "Debian/amd64/6.11.6/Debian_6.11.6-amd64_6.11.6-1_amd64.json.xz"
+ ],
+ "Linux version 6.11.6-cloud-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-14 (Debian 14.2.0-8) 14.2.0, GNU ld (GNU Binutils for Debian) 2.43.1) #1 SMP PREEMPT_DYNAMIC Debian 6.11.6-1 (2024-11-04)": [
+  "Debian/amd64/6.11.6/cloud/Debian_6.11.6-cloud-amd64_6.11.6-1_amd64.json.xz"
+ ],
+ "Linux version 6.11.6-rt-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-14 (Debian 14.2.0-8) 14.2.0, GNU ld (GNU Binutils for Debian) 2.43.1) #1 SMP PREEMPT_RT Debian 6.11.6-1 (2024-11-04)": [
+  "Debian/amd64/6.11.6/rt/Debian_6.11.6-rt-amd64_6.11.6-1_amd64.json.xz"
+ ],
+ "Linux version 6.11.7-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-14 (Debian 14.2.0-8) 14.2.0, GNU ld (GNU Binutils for Debian) 2.43.1) #1 SMP PREEMPT_DYNAMIC Debian 6.11.7-1 (2024-11-09)": [
+  "Debian/amd64/6.11.7/Debian_6.11.7-amd64_6.11.7-1_amd64.json.xz"
+ ],
+ "Linux version 6.11.7-cloud-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-14 (Debian 14.2.0-8) 14.2.0, GNU ld (GNU Binutils for Debian) 2.43.1) #1 SMP PREEMPT_DYNAMIC Debian 6.11.7-1 (2024-11-09)": [
+  "Debian/amd64/6.11.7/cloud/Debian_6.11.7-cloud-amd64_6.11.7-1_amd64.json.xz"
+ ],
+ "Linux version 6.11.7-rt-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-14 (Debian 14.2.0-8) 14.2.0, GNU ld (GNU Binutils for Debian) 2.43.1) #1 SMP PREEMPT_RT Debian 6.11.7-1 (2024-11-09)": [
+  "Debian/amd64/6.11.7/rt/Debian_6.11.7-rt-amd64_6.11.7-1_amd64.json.xz"
  ]
 }
