@@ -9,6 +9,10 @@
 ![](https://img.shields.io/badge/RockyLinux-x86__64-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=rockylinux)  
 ![](https://img.shields.io/badge/macOS-amd64%20|%20i386-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=macos)  
 
+##❗27/03/25
+
+Most of the macOS symbols for > 11.0 are not correct due to the use of incomplete KDKs. While a fix is developed, please be aware that analysis with these ISFs might be broken with Volatility3.
+
 ## Volatility3 memory analysis 🔍
 
 Conducting memory analysis with Volatility3 against a Linux or macOS RAM capture, requires of an investigator to acquire appropriate kernel debugging information. 
