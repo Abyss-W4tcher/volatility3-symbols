@@ -39,7 +39,9 @@ def banner_infos(banner: str):
 def search_debug_symbols(version_short, version_extended, arch) -> str:
     releases = get_ubuntu_releases()
     for base in [BASE, BASE2]:
+        print(f"Searching base {base}")
         for release in releases:
+            print(f"Searching release {release}")
             check = base.format(
                 arch=arch,
                 release=release,
