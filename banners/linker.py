@@ -74,7 +74,7 @@ vol_banners["linux"] = {}
 vol_banners["mac"] = {}
 
 for banner, paths in plain_banners.items():
-    banner = banner.encode() + b"\x00\n"
+    banner = banner.encode() + b"\n\x00"
     paths_out = []
 
     for path in paths:
