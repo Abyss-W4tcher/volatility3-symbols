@@ -9,6 +9,10 @@
 ![](https://img.shields.io/badge/RockyLinux-x86__64-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=rockylinux)  
 ![](https://img.shields.io/badge/macOS-amd64%20|%20i386-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=macos)  
 
+## 19/10/26 Storage notice
+
+Symbols added after 19/10/26 are published as release assets instead of being committed, to keep the repository size reasonable. Existing files stay where they are. In banners/banners_plain.json, an entry is either a path in this repository or the full URL of a release asset.
+
 ## 27/03/25 macOS warning ❗
 
 Most of the macOS symbols for > 11.0 are not correct due to the use of incomplete KDKs. While a fix is developed, please be aware that analysis with these ISFs might be broken with Volatility3.
