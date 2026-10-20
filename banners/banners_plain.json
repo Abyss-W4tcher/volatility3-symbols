@@ -11659,6 +11659,96 @@
  "Linux version 4.18.0-553.166.1.rt7.507.el8_10.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-28) (GCC)) #1 SMP PREEMPT_RT Tue Sep 22 16:52:57 EDT 2026": [
   "AlmaLinux/x86_64/4.18.0/rt/AlmaLinux_4.18.0-553.166.1.rt7.507.el8_10_x86_64.json.xz"
  ],
+ "Linux version 4.18.0-553.167.1.el8_10.x86_64 (mockbuild@x64-builder03.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-28) (GCC)) #1 SMP Wed Sep 23 23:01:58 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0/AlmaLinux_4.18.0-553.167.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.167.1.rt7.508.el8_10.x86_64 (mockbuild@x64-builder03.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-28) (GCC)) #1 SMP PREEMPT_RT Wed Sep 23 15:03:13 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0-rt/AlmaLinux_4.18.0-553.167.1.rt7.508.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.168.1.el8_10.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-28) (GCC)) #1 SMP Thu Sep 24 18:05:46 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-4.18.0/RockyLinux_4.18.0-553.168.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.168.1.el8_10.x86_64 (mockbuild@x64-builder03.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-28) (GCC)) #1 SMP Thu Sep 24 02:29:40 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0/AlmaLinux_4.18.0-553.168.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.168.1.rt7.509.el8_10.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-28) (GCC)) #1 SMP PREEMPT_RT Thu Sep 24 18:05:38 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-4.18.0-rt/RockyLinux_4.18.0-553.168.1.rt7.509.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.168.1.rt7.509.el8_10.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-28) (GCC)) #1 SMP PREEMPT_RT Thu Sep 24 03:21:40 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0-rt/AlmaLinux_4.18.0-553.168.1.rt7.509.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.169.1.el8_10.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-28) (GCC)) #1 SMP Tue Sep 29 11:35:29 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-4.18.0/RockyLinux_4.18.0-553.169.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.169.1.el8_10.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-28) (GCC)) #1 SMP Mon Sep 28 09:13:42 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0/AlmaLinux_4.18.0-553.169.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.169.1.rt7.510.el8_10.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-28) (GCC)) #1 SMP PREEMPT_RT Tue Sep 29 13:47:30 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-4.18.0-rt/RockyLinux_4.18.0-553.169.1.rt7.510.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.169.1.rt7.510.el8_10.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-28) (GCC)) #1 SMP PREEMPT_RT Mon Sep 28 09:45:34 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0-rt/AlmaLinux_4.18.0-553.169.1.rt7.510.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.170.1.el8_10.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP Thu Oct 1 12:14:02 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-4.18.0/RockyLinux_4.18.0-553.170.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.170.1.el8_10.x86_64 (mockbuild@x64-builder03.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP Wed Sep 30 19:15:56 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0/AlmaLinux_4.18.0-553.170.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.170.1.rt7.511.el8_10.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP PREEMPT_RT Thu Oct 1 13:03:47 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-4.18.0-rt/RockyLinux_4.18.0-553.170.1.rt7.511.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.170.1.rt7.511.el8_10.x86_64 (mockbuild@x64-builder03.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP PREEMPT_RT Wed Sep 30 18:23:17 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0-rt/AlmaLinux_4.18.0-553.170.1.rt7.511.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.171.1.el8_10.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP Mon Oct 5 13:42:42 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-4.18.0/RockyLinux_4.18.0-553.171.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.171.1.el8_10.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP Mon Oct 5 21:24:19 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0/AlmaLinux_4.18.0-553.171.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.171.1.rt7.512.el8_10.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP PREEMPT_RT Mon Oct 5 13:43:51 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-4.18.0-rt/RockyLinux_4.18.0-553.171.1.rt7.512.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.171.1.rt7.512.el8_10.x86_64 (mockbuild@x64-builder02.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP PREEMPT_RT Tue Oct 6 04:25:29 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0-rt/AlmaLinux_4.18.0-553.171.1.rt7.512.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.172.1.el8_10.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP Thu Oct 8 13:40:23 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-4.18.0/RockyLinux_4.18.0-553.172.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.172.1.el8_10.x86_64 (mockbuild@x64-builder02.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP Wed Oct 7 16:29:43 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0/AlmaLinux_4.18.0-553.172.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.172.1.rt7.513.el8_10.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP PREEMPT_RT Wed Oct 7 21:18:54 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-4.18.0-rt/RockyLinux_4.18.0-553.172.1.rt7.513.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.172.1.rt7.513.el8_10.x86_64 (mockbuild@x64-builder02.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP PREEMPT_RT Wed Oct 7 09:10:47 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0-rt/AlmaLinux_4.18.0-553.172.1.rt7.513.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.173.1.el8_10.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP Wed Oct 14 16:18:36 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-4.18.0/RockyLinux_4.18.0-553.173.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.173.1.el8_10.x86_64 (mockbuild@x64-builder02.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP Wed Oct 14 05:58:41 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0/AlmaLinux_4.18.0-553.173.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.173.1.rt7.514.el8_10.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP PREEMPT_RT Wed Oct 14 16:43:49 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-4.18.0-rt/RockyLinux_4.18.0-553.173.1.rt7.514.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.173.1.rt7.514.el8_10.x86_64 (mockbuild@x64-builder03.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP PREEMPT_RT Wed Oct 14 06:18:55 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0-rt/AlmaLinux_4.18.0-553.173.1.rt7.514.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.174.1.el8_10.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP Thu Oct 15 11:06:38 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-4.18.0/RockyLinux_4.18.0-553.174.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.174.1.el8_10.x86_64 (mockbuild@x64-builder02.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP Wed Oct 14 17:46:20 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0/AlmaLinux_4.18.0-553.174.1.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.174.1.rt7.515.el8_10.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP PREEMPT_RT Thu Oct 15 11:52:31 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-4.18.0-rt/RockyLinux_4.18.0-553.174.1.rt7.515.el8_10_x86_64.json.xz"
+ ],
+ "Linux version 4.18.0-553.174.1.rt7.515.el8_10.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-29) (GCC)) #1 SMP PREEMPT_RT Wed Oct 14 18:30:07 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-4.18.0-rt/AlmaLinux_4.18.0-553.174.1.rt7.515.el8_10_x86_64.json.xz"
+ ],
  "Linux version 4.18.0-553.el8_10.x86_64 (mockbuild@iad1-prod-build001.bld.equ.rockylinux.org) (gcc version 8.5.0 20210514 (Red Hat 8.5.0-22) (GCC)) #1 SMP Fri May 24 13:05:10 UTC 2024": [
   "RockyLinux/x86_64/4.18.0/RockyLinux_4.18.0-553.el8_10_x86_64.json.xz"
  ],
@@ -12354,6 +12444,15 @@
  ],
  "Linux version 4.19.0-25-rt-amd64 (debian-kernel@lists.debian.org) (gcc version 8.3.0 (Debian 8.3.0-6)) #1 SMP PREEMPT RT Debian 4.19.289-2 (2023-08-08)": [
   "Debian/amd64/4.19.0/25/rt/Debian_4.19.0-25-rt-amd64_4.19.289-2_amd64.json.xz"
+ ],
+ "Linux version 4.19.0-26-amd64 (debian-kernel@lists.debian.org) (gcc version 8.3.0 (Debian 8.3.0-6)) #1 SMP Debian 4.19.304-1 (2024-01-09)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Debian-amd64-4.19.0/Debian_4.19.0-26-amd64_4.19.304-1_amd64.json.xz"
+ ],
+ "Linux version 4.19.0-26-cloud-amd64 (debian-kernel@lists.debian.org) (gcc version 8.3.0 (Debian 8.3.0-6)) #1 SMP Debian 4.19.304-1 (2024-01-09)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Debian-amd64-4.19.0/Debian_4.19.0-26-cloud-amd64_4.19.304-1_amd64.json.xz"
+ ],
+ "Linux version 4.19.0-26-rt-amd64 (debian-kernel@lists.debian.org) (gcc version 8.3.0 (Debian 8.3.0-6)) #1 SMP PREEMPT RT Debian 4.19.304-1 (2024-01-09)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Debian-amd64-4.19.0-rt/Debian_4.19.0-26-rt-amd64_4.19.304-1_amd64.json.xz"
  ],
  "Linux version 4.19.0-27-amd64 (debian-kernel@lists.debian.org) (gcc version 8.3.0 (Debian 8.3.0-6)) #1 SMP Debian 4.19.316-1 (2024-06-25)": [
   "Debian/amd64/4.19.0/27/Debian_4.19.0-27-amd64_4.19.316-1_amd64.json.xz"
@@ -18796,6 +18895,102 @@
  "Linux version 5.14.0-687.49.1.el9_8.x86_64+rt (mockbuild@x64-builder03.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Mon Sep 21 11:04:44 EDT 2026": [
   "AlmaLinux/x86_64/5.14.0/rt/AlmaLinux_5.14.0-687.49.1.el9_8_x86_64.json.xz"
  ],
+ "Linux version 5.14.0-687.50.1.el9_8.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Wed Sep 23 21:35:41 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0/RockyLinux_5.14.0-687.50.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.50.1.el9_8.x86_64 (mockbuild@x64-builder03.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Fri Sep 25 10:26:39 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0/AlmaLinux_5.14.0-687.50.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.50.1.el9_8.x86_64+rt (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Wed Sep 23 21:32:48 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0-rt/RockyLinux_5.14.0-687.50.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.50.1.el9_8.x86_64+rt (mockbuild@x64-builder03.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Fri Sep 25 10:12:37 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0-rt/AlmaLinux_5.14.0-687.50.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.51.1.el9_8.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Thu Sep 24 18:26:53 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0/RockyLinux_5.14.0-687.51.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.51.1.el9_8.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Fri Sep 25 10:41:18 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0/AlmaLinux_5.14.0-687.51.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.51.1.el9_8.x86_64+rt (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Thu Sep 24 18:17:32 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0-rt/RockyLinux_5.14.0-687.51.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.51.1.el9_8.x86_64+rt (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Fri Sep 25 10:29:40 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0-rt/AlmaLinux_5.14.0-687.51.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.52.1.el9_8.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Fri Sep 25 13:22:27 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0/RockyLinux_5.14.0-687.52.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.52.1.el9_8.x86_64 (mockbuild@x64-builder02.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Tue Sep 29 05:11:00 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0/AlmaLinux_5.14.0-687.52.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.52.1.el9_8.x86_64+rt (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Fri Sep 25 13:19:32 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0-rt/RockyLinux_5.14.0-687.52.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.52.1.el9_8.x86_64+rt (mockbuild@x64-builder02.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Tue Sep 29 05:00:37 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0-rt/AlmaLinux_5.14.0-687.52.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.53.1.el9_8.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Tue Sep 29 12:30:12 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0/RockyLinux_5.14.0-687.53.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.53.1.el9_8.x86_64 (mockbuild@x64-builder03.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Wed Sep 30 11:17:58 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0/AlmaLinux_5.14.0-687.53.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.53.1.el9_8.x86_64+rt (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Tue Sep 29 12:25:55 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0-rt/RockyLinux_5.14.0-687.53.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.53.1.el9_8.x86_64+rt (mockbuild@x64-builder03.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Wed Sep 30 11:03:31 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0-rt/AlmaLinux_5.14.0-687.53.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.54.1.el9_8.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Fri Oct 2 17:26:36 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0/RockyLinux_5.14.0-687.54.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.54.1.el9_8.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Tue Oct 6 04:43:47 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0/AlmaLinux_5.14.0-687.54.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.54.1.el9_8.x86_64+rt (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Fri Oct 2 17:23:44 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0-rt/RockyLinux_5.14.0-687.54.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.54.1.el9_8.x86_64+rt (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Tue Oct 6 04:32:04 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0-rt/AlmaLinux_5.14.0-687.54.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.56.1.el9_8.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Thu Oct 8 14:47:43 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0/RockyLinux_5.14.0-687.56.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.56.1.el9_8.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Wed Oct 14 05:20:56 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0/AlmaLinux_5.14.0-687.56.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.56.1.el9_8.x86_64+rt (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Thu Oct 8 14:44:46 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0-rt/RockyLinux_5.14.0-687.56.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.56.1.el9_8.x86_64+rt (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Wed Oct 14 05:09:17 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0-rt/AlmaLinux_5.14.0-687.56.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.57.1.el9_8.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Tue Oct 13 12:29:42 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0/RockyLinux_5.14.0-687.57.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.57.1.el9_8.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Wed Oct 14 12:29:14 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0/AlmaLinux_5.14.0-687.57.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.57.1.el9_8.x86_64+rt (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Tue Oct 13 12:25:33 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0-rt/RockyLinux_5.14.0-687.57.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.57.1.el9_8.x86_64+rt (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Wed Oct 14 11:57:51 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0-rt/AlmaLinux_5.14.0-687.57.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.58.1.el9_8.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Thu Oct 15 11:19:11 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0/RockyLinux_5.14.0-687.58.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.58.1.el9_8.x86_64 (mockbuild@x64-builder03.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Sun Oct 18 22:17:14 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0/AlmaLinux_5.14.0-687.58.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.58.1.el9_8.x86_64+rt (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Thu Oct 15 11:14:32 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-5.14.0-rt/RockyLinux_5.14.0-687.58.1.el9_8_x86_64.json.xz"
+ ],
+ "Linux version 5.14.0-687.58.1.el9_8.x86_64+rt (mockbuild@x64-builder03.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-14), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_RT Sun Oct 18 22:03:48 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-5.14.0-rt/AlmaLinux_5.14.0-687.58.1.el9_8_x86_64.json.xz"
+ ],
  "Linux version 5.14.0-741.el9.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-15), GNU ld version 2.35.2-72.el9) #1 SMP PREEMPT_DYNAMIC Sat Sep 5 10:02:20 EDT 2026": [
   "AlmaLinux/x86_64/5.14.0/AlmaLinux_5.14.0-741.el9_x86_64.json.xz"
  ],
@@ -19699,8 +19894,14 @@
  "Linux version 5.15.0-195-lowlatency (buildd@lcy02-amd64-097) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #205-Ubuntu SMP PREEMPT Tue Sep 8 13:34:12 UTC 2026 (Ubuntu 5.15.0-195.205-lowlatency 5.15.216)": [
   "Ubuntu/amd64/5.15.0/195/lowlatency/Ubuntu_5.15.0-195-lowlatency_5.15.0-195.205_amd64.json.xz"
  ],
+ "Linux version 5.15.0-196-lowlatency (buildd@lcy02-amd64-004) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #206-Ubuntu SMP PREEMPT Mon Sep 28 14:14:52 UTC 2026 (Ubuntu 5.15.0-196.206-lowlatency 5.15.216)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-196-lowlatency_5.15.0-196.206_amd64.json.xz"
+ ],
  "Linux version 5.15.0-198-generic (buildd@lcy02-amd64-040) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #208-Ubuntu SMP Fri Sep 4 10:22:38 UTC 2026 (Ubuntu 5.15.0-198.208-generic 5.15.216)": [
   "Ubuntu/amd64/5.15.0/198/generic/Ubuntu_5.15.0-198-generic_5.15.0-198.208_amd64.json.xz"
+ ],
+ "Linux version 5.15.0-199-generic (buildd@lcy02-amd64-028) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #209-Ubuntu SMP Thu Sep 24 11:02:41 UTC 2026 (Ubuntu 5.15.0-199.209-generic 5.15.216)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-199-generic_5.15.0-199.209_amd64.json.xz"
  ],
  "Linux version 5.15.0-1002-gke (buildd@lcy02-amd64-113) (gcc (Ubuntu 11.2.0-19ubuntu1) 11.2.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #2-Ubuntu SMP Thu Apr 7 09:28:13 UTC 2022 (Ubuntu 5.15.0-1002.2-gke 5.15.30)": [
   "Ubuntu/amd64/5.15.0/1002/gke/Ubuntu_5.15.0-1002-gke_5.15.0-1002.2_amd64.json.xz"
@@ -22888,6 +23089,9 @@
  "Linux version 5.15.0-1101-gke (buildd@lcy02-amd64-074) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #107-Ubuntu SMP Tue Mar 24 18:48:35 UTC 2026 (Ubuntu 5.15.0-1101.107-gke 5.15.199)": [
   "Ubuntu/amd64/5.15.0/1101/gke/Ubuntu_5.15.0-1101-gke_5.15.0-1101.107_amd64.json.xz"
  ],
+ "Linux version 5.15.0-1101-gkeop (buildd@lcy02-amd64-029) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #109-Ubuntu SMP Mon Sep 28 13:12:51 UTC 2026 (Ubuntu 5.15.0-1101.109-gkeop 5.15.216)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-1101-gkeop_5.15.0-1101.109_amd64.json.xz"
+ ],
  "Linux version 5.15.0-1101-ibm (buildd@lcy02-amd64-029) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #104-Ubuntu SMP Fri May 1 10:50:58 UTC 2026 (Ubuntu 5.15.0-1101.104-ibm 5.15.199)": [
   "Ubuntu/amd64/5.15.0/1101/ibm/Ubuntu_5.15.0-1101-ibm_5.15.0-1101.104_amd64.json.xz"
  ],
@@ -23137,6 +23341,9 @@
  "Linux version 5.15.0-1110-intel-iotg (buildd@lcy02-amd64-031) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #116-Ubuntu SMP Tue Aug 18 15:16:47 UTC 2026 (Ubuntu 5.15.0-1110.116-intel-iotg 5.15.209)": [
   "Ubuntu/amd64/5.15.0/1110/intel-iotg/Ubuntu_5.15.0-1110-intel-iotg_5.15.0-1110.116_amd64.json.xz"
  ],
+ "Linux version 5.15.0-1110-kvm (buildd@lcy02-amd64-117) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #115-Ubuntu SMP Mon Sep 28 14:10:23 UTC 2026 (Ubuntu 5.15.0-1110.115-kvm 5.15.216)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-1110-kvm_5.15.0-1110.115_amd64.json.xz"
+ ],
  "Linux version 5.15.0-1110-nvidia (buildd@lcy02-amd64-036) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #111-Ubuntu SMP Mon Aug 17 17:07:52 UTC 2026 (Ubuntu 5.15.0-1110.111-nvidia 5.15.209)": [
   "Ubuntu/amd64/5.15.0/1110/nvidia/Ubuntu_5.15.0-1110-nvidia_5.15.0-1110.111_amd64.json.xz"
  ],
@@ -23164,6 +23371,12 @@
  "Linux version 5.15.0-1111-intel-iotg (buildd@lcy02-amd64-091) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #117-Ubuntu SMP Fri Sep 11 16:57:04 UTC 2026 (Ubuntu 5.15.0-1111.117-intel-iotg 5.15.209)": [
   "Ubuntu/amd64/5.15.0/1111/intel-iotg/Ubuntu_5.15.0-1111-intel-iotg_5.15.0-1111.117_amd64.json.xz"
  ],
+ "Linux version 5.15.0-1111-nvidia (buildd@lcy02-amd64-004) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #112-Ubuntu SMP Fri Sep 4 21:27:42 UTC 2026 (Ubuntu 5.15.0-1111.112-nvidia 5.15.209)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-1111-nvidia_5.15.0-1111.112_amd64.json.xz"
+ ],
+ "Linux version 5.15.0-1111-nvidia-lowlatency (buildd@lcy02-amd64-004) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #112-Ubuntu SMP PREEMPT Fri Sep 4 22:14:01 UTC 2026 (Ubuntu 5.15.0-1111.112-nvidia-lowlatency 5.15.209)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-1111-nvidia-lowlatency_5.15.0-1111.112_amd64.json.xz"
+ ],
  "Linux version 5.15.0-1111-oracle (buildd@lcy02-amd64-039) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #117-Ubuntu SMP Wed Aug 12 22:38:05 UTC 2026 (Ubuntu 5.15.0-1111.117-oracle 5.15.209)": [
   "Ubuntu/amd64/5.15.0/1111/oracle/Ubuntu_5.15.0-1111-oracle_5.15.0-1111.117_amd64.json.xz"
  ],
@@ -23178,6 +23391,9 @@
  ],
  "Linux version 5.15.0-1112-gke (buildd@lcy02-amd64-016) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #118-Ubuntu SMP Fri Sep 4 16:18:42 UTC 2026 (Ubuntu 5.15.0-1112.118-gke 5.15.209)": [
   "Ubuntu/amd64/5.15.0/1112/gke/Ubuntu_5.15.0-1112-gke_5.15.0-1112.118_amd64.json.xz"
+ ],
+ "Linux version 5.15.0-1112-ibm (buildd@lcy02-amd64-107) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #116-Ubuntu SMP Mon Sep 28 13:13:13 UTC 2026 (Ubuntu 5.15.0-1112.116-ibm 5.15.216)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-1112-ibm_5.15.0-1112.116_amd64.json.xz"
  ],
  "Linux version 5.15.0-1112-intel-iotg (buildd@lcy02-amd64-067) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #118-Ubuntu SMP Fri Sep 18 14:54:26 UTC 2026 (Ubuntu 5.15.0-1112.118-intel-iotg 5.15.216)": [
   "Ubuntu/amd64/5.15.0/1112/intel-iotg/Ubuntu_5.15.0-1112-intel-iotg_5.15.0-1112.118_amd64.json.xz"
@@ -23197,6 +23413,15 @@
  "Linux version 5.15.0-1113-gke (buildd@lcy02-amd64-080) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #119-Ubuntu SMP Mon Sep 14 14:01:06 UTC 2026 (Ubuntu 5.15.0-1113.119-gke 5.15.216)": [
   "Ubuntu/amd64/5.15.0/1113/gke/Ubuntu_5.15.0-1113-gke_5.15.0-1113.119_amd64.json.xz"
  ],
+ "Linux version 5.15.0-1113-intel-iotg (buildd@lcy02-amd64-111) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #119-Ubuntu SMP Mon Sep 28 14:01:04 UTC 2026 (Ubuntu 5.15.0-1113.119-intel-iotg 5.15.216)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-1113-intel-iotg_5.15.0-1113.119_amd64.json.xz"
+ ],
+ "Linux version 5.15.0-1113-nvidia (buildd@lcy02-amd64-033) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #114-Ubuntu SMP Tue Sep 29 02:18:52 UTC 2026 (Ubuntu 5.15.0-1113.114-nvidia 5.15.216)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-1113-nvidia_5.15.0-1113.114_amd64.json.xz"
+ ],
+ "Linux version 5.15.0-1113-nvidia-lowlatency (buildd@lcy02-amd64-033) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #114-Ubuntu SMP PREEMPT Tue Sep 29 03:04:00 UTC 2026 (Ubuntu 5.15.0-1113.114-nvidia-lowlatency 5.15.216)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-1113-nvidia-lowlatency_5.15.0-1113.114_amd64.json.xz"
+ ],
  "Linux version 5.15.0-1113-oracle (buildd@lcy02-amd64-078) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #119-Ubuntu SMP Mon Sep 14 13:50:42 UTC 2026 (Ubuntu 5.15.0-1113.119-oracle 5.15.209)": [
   "Ubuntu/amd64/5.15.0/1113/oracle/Ubuntu_5.15.0-1113-oracle_5.15.0-1113.119_amd64.json.xz"
  ],
@@ -23212,6 +23437,9 @@
  "Linux version 5.15.0-1114-gcp (buildd@lcy02-amd64-046) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #124-Ubuntu SMP Tue Aug 11 02:25:39 UTC 2026 (Ubuntu 5.15.0-1114.124-gcp 5.15.209)": [
   "Ubuntu/amd64/5.15.0/1114/gcp/Ubuntu_5.15.0-1114-gcp_5.15.0-1114.124_amd64.json.xz"
  ],
+ "Linux version 5.15.0-1114-gke (buildd@lcy02-amd64-081) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #120-Ubuntu SMP Mon Sep 28 13:08:42 UTC 2026 (Ubuntu 5.15.0-1114.120-gke 5.15.216)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-1114-gke_5.15.0-1114.120_amd64.json.xz"
+ ],
  "Linux version 5.15.0-1114-oracle (buildd@lcy02-amd64-118) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #120-Ubuntu SMP Mon Sep 21 16:43:41 UTC 2026 (Ubuntu 5.15.0-1114.120-oracle 5.15.216)": [
   "Ubuntu/amd64/5.15.0/1114/oracle/Ubuntu_5.15.0-1114-oracle_5.15.0-1114.120_amd64.json.xz"
  ],
@@ -23226,6 +23454,9 @@
  ],
  "Linux version 5.15.0-1115-gcp (buildd@lcy02-amd64-071) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #125-Ubuntu SMP Tue Aug 11 16:19:59 UTC 2026 (Ubuntu 5.15.0-1115.125-gcp 5.15.209)": [
   "Ubuntu/amd64/5.15.0/1115/gcp/Ubuntu_5.15.0-1115-gcp_5.15.0-1115.125_amd64.json.xz"
+ ],
+ "Linux version 5.15.0-1115-oracle (buildd@lcy02-amd64-022) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #121-Ubuntu SMP Mon Sep 28 15:05:03 UTC 2026 (Ubuntu 5.15.0-1115.121-oracle 5.15.216)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-1115-oracle_5.15.0-1115.121_amd64.json.xz"
  ],
  "Linux version 5.15.0-1116-aws (buildd@lcy02-amd64-097) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #123-Ubuntu SMP Thu Sep 10 20:11:56 UTC 2026 (Ubuntu 5.15.0-1116.123-aws 5.15.209)": [
   "Ubuntu/amd64/5.15.0/1116/aws/Ubuntu_5.15.0-1116-aws_5.15.0-1116.123_amd64.json.xz"
@@ -23248,6 +23479,9 @@
  "Linux version 5.15.0-1117-gcp (buildd@lcy02-amd64-056) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #127-Ubuntu SMP Tue Sep 15 17:10:03 UTC 2026 (Ubuntu 5.15.0-1117.127-gcp 5.15.209)": [
   "Ubuntu/amd64/5.15.0/1117/gcp/Ubuntu_5.15.0-1117-gcp_5.15.0-1117.127_amd64.json.xz"
  ],
+ "Linux version 5.15.0-1118-aws (buildd@lcy02-amd64-110) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #125-Ubuntu SMP Mon Sep 28 11:42:24 UTC 2026 (Ubuntu 5.15.0-1118.125-aws 5.15.216)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-1118-aws_5.15.0-1118.125_amd64.json.xz"
+ ],
  "Linux version 5.15.0-1118-azure (buildd@lcy02-amd64-073) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #127-Ubuntu SMP Wed Jul 22 13:09:29 UTC 2026 (Ubuntu 5.15.0-1118.127-azure 5.15.209)": [
   "Ubuntu/amd64/5.15.0/1118/azure/Ubuntu_5.15.0-1118-azure_5.15.0-1118.127_amd64.json.xz"
  ],
@@ -23262,6 +23496,9 @@
  ],
  "Linux version 5.15.0-1119-azure-fde (buildd@lcy02-amd64-078) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #128-Ubuntu SMP Mon Aug 10 20:08:18 UTC 2026 (Ubuntu 5.15.0-1119.128-azure-fde 5.15.209)": [
   "Ubuntu/amd64/5.15.0/1119/azure-fde/Ubuntu_5.15.0-1119-azure-fde_5.15.0-1119.128_amd64.json.xz"
+ ],
+ "Linux version 5.15.0-1119-gcp (buildd@lcy02-amd64-053) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #129-Ubuntu SMP Mon Sep 28 11:45:14 UTC 2026 (Ubuntu 5.15.0-1119.129-gcp 5.15.216)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-1119-gcp_5.15.0-1119.129_amd64.json.xz"
  ],
  "Linux version 5.15.0-1120-azure-fde (buildd@lcy02-amd64-015) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #129-Ubuntu SMP Fri Aug 14 19:09:40 UTC 2026 (Ubuntu 5.15.0-1120.129-azure-fde 5.15.209)": [
   "Ubuntu/amd64/5.15.0/1120/azure-fde/Ubuntu_5.15.0-1120-azure-fde_5.15.0-1120.129_amd64.json.xz"
@@ -23280,6 +23517,12 @@
  ],
  "Linux version 5.15.0-1123-azure (buildd@lcy02-amd64-038) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #132-Ubuntu SMP Wed Sep 16 19:50:51 UTC 2026 (Ubuntu 5.15.0-1123.132-azure 5.15.216)": [
   "Ubuntu/amd64/5.15.0/1123/azure/Ubuntu_5.15.0-1123-azure_5.15.0-1123.132_amd64.json.xz"
+ ],
+ "Linux version 5.15.0-1123-azure-fde (buildd@lcy02-amd64-119) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #132-Ubuntu SMP Tue Sep 29 07:55:53 UTC 2026 (Ubuntu 5.15.0-1123.132-azure-fde 5.15.216)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-1123-azure-fde_5.15.0-1123.132_amd64.json.xz"
+ ],
+ "Linux version 5.15.0-1124-azure (buildd@lcy02-amd64-113) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #133-Ubuntu SMP Mon Sep 28 11:45:54 UTC 2026 (Ubuntu 5.15.0-1124.133-azure 5.15.216)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-5.15.0/Ubuntu_5.15.0-1124-azure_5.15.0-1124.133_amd64.json.xz"
  ],
  "Linux version 5.15.0-kali3-amd64 (devel@kali.org) (gcc-11 (Debian 11.2.0-14) 11.2.0, GNU ld (GNU Binutils for Debian) 2.37.90.20220123) #1 SMP Debian 5.15.15-2kali1 (2022-01-31)": [
   "KaliLinux/amd64/5.15.0/KaliLinux_5.15.0-kali3-amd64_5.15.15-2kali1_amd64.json.xz"
@@ -26953,8 +27196,14 @@
  "Linux version 6.8.0-139-lowlatency (buildd@lcy02-amd64-041) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #139.1~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Aug 10 15:18:24 UT (Ubuntu 6.8.0-139.139.1~22.04.1-lowlatency 6.8.12)": [
   "Ubuntu/amd64/6.8.0/139/lowlatency/Ubuntu_6.8.0-139-lowlatency_6.8.0-139.139.1~22.04.1_amd64.json.xz"
  ],
+ "Linux version 6.8.0-142-generic (buildd@lcy02-amd64-049) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #142-Ubuntu SMP PREEMPT_DYNAMIC Wed Sep  2 14:24:27 UTC 2026 (Ubuntu 6.8.0-142.142-generic 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-142-generic_6.8.0-142.142_amd64.json.xz"
+ ],
  "Linux version 6.8.0-142-lowlatency (buildd@lcy02-amd64-030) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #142.1~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Sep  8 19:58:33 UT (Ubuntu 6.8.0-142.142.1~22.04.1-lowlatency 6.8.12)": [
   "Ubuntu/amd64/6.8.0/142/lowlatency/Ubuntu_6.8.0-142-lowlatency_6.8.0-142.142.1~22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-142-lowlatency (buildd@lcy02-amd64-048) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #142.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Sep  7 21:28:52 UTC 2026 (Ubuntu 6.8.0-142.142.1-lowlatency 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-142-lowlatency_6.8.0-142.142.1_amd64.json.xz"
  ],
  "Linux version 6.8.0-146-generic (buildd@lcy02-amd64-025) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #146~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Sep  8 14:44:26 UTC  (Ubuntu 6.8.0-146.146~22.04.1-generic 6.8.12)": [
   "Ubuntu/amd64/6.8.0/146/generic/Ubuntu_6.8.0-146-generic_6.8.0-146.146~22.04.1_amd64.json.xz"
@@ -26967,6 +27216,18 @@
  ],
  "Linux version 6.8.0-146-lowlatency (buildd@lcy02-amd64-028) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #146.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Sep  8 12:42:38 UTC 2026 (Ubuntu 6.8.0-146.146.1-lowlatency 6.8.12)": [
   "Ubuntu/amd64/6.8.0/146/lowlatency/Ubuntu_6.8.0-146-lowlatency_6.8.0-146.146.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-147-generic (buildd@lcy02-amd64-022) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #147~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Sep 28 22:03:08 UTC  (Ubuntu 6.8.0-147.147~22.04.1-generic 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-147-generic_6.8.0-147.147.22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-147-generic (buildd@lcy02-amd64-081) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #147-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep 24 11:33:16 UTC 2026 (Ubuntu 6.8.0-147.147-generic 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-147-generic_6.8.0-147.147_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-147-lowlatency (buildd@lcy02-amd64-097) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #147.1~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Oct  1 10:37:22 UT (Ubuntu 6.8.0-147.147.1~22.04.1-lowlatency 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-147-lowlatency_6.8.0-147.147.1.22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-147-lowlatency (buildd@lcy02-amd64-116) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #147.1-Ubuntu SMP PREEMPT_DYNAMIC Wed Sep 30 20:24:09 UTC 2026 (Ubuntu 6.8.0-147.147.1-lowlatency 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-147-lowlatency_6.8.0-147.147.1_amd64.json.xz"
  ],
  "Linux version 6.8.0-1001-aws (buildd@lcy02-amd64-029) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-13ubuntu1) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #1-Ubuntu SMP Mon Feb 12 16:44:14 UTC 2024 (Ubuntu 6.8.0-1001.1-aws 6.8.0-rc3)": [
   "Ubuntu/amd64/6.8.0/1001/aws/Ubuntu_6.8.0-1001-aws_6.8.0-1001.1_amd64.json.xz"
@@ -27168,6 +27429,9 @@
  ],
  "Linux version 6.8.0-1008-oracle (buildd@lcy02-amd64-085) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-23ubuntu4) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #8-Ubuntu SMP Fri Jun 21 19:38:41 UTC 2024 (Ubuntu 6.8.0-1008.8-oracle 6.8.8)": [
   "Ubuntu/amd64/6.8.0/1008/oracle/Ubuntu_6.8.0-1008-oracle_6.8.0-1008.8_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1008-vmware (buildd@lcy02-amd64-029) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #8-Ubuntu SMP PREEMPT_DYNAMIC Fri Oct  2 22:51:34 UTC 2026 (Ubuntu 6.8.0-1008.8-vmware 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1008-vmware_6.8.0-1008.8_amd64.json.xz"
  ],
  "Linux version 6.8.0-1009-aws (buildd@lcy02-amd64-001) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-23ubuntu4) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #9-Ubuntu SMP Fri May 17 14:39:23 UTC 2024 (Ubuntu 6.8.0-1009.9-aws 6.8.4)": [
   "Ubuntu/amd64/6.8.0/1009/aws/Ubuntu_6.8.0-1009-aws_6.8.0-1009.9_amd64.json.xz"
@@ -28954,6 +29218,9 @@
  "Linux version 6.8.0-1050-gke (buildd@lcy02-amd64-038) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #56-Ubuntu SMP Fri Apr  3 18:42:42 UTC 2026 (Ubuntu 6.8.0-1050.56-gke 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1050/gke/Ubuntu_6.8.0-1050-gke_6.8.0-1050.56_amd64.json.xz"
  ],
+ "Linux version 6.8.0-1050-gkeop (buildd@lcy02-amd64-096) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #54-Ubuntu SMP PREEMPT_DYNAMIC Tue Sep  8 23:49:32 UTC 2026 (Ubuntu 6.8.0-1050.54-gkeop 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1050-gkeop_6.8.0-1050.54_amd64.json.xz"
+ ],
  "Linux version 6.8.0-1050-ibm (buildd@lcy02-amd64-041) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #50-Ubuntu SMP Thu Mar 19 01:16:45 UTC 2026 (Ubuntu 6.8.0-1050.50-ibm 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1050/ibm/Ubuntu_6.8.0-1050-ibm_6.8.0-1050.50_amd64.json.xz"
  ],
@@ -29037,6 +29304,9 @@
  ],
  "Linux version 6.8.0-1052-gke (buildd@lcy02-amd64-034) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #58-Ubuntu SMP Tue Apr 21 18:54:59 UTC 2026 (Ubuntu 6.8.0-1052.58-gke 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1052/gke/Ubuntu_6.8.0-1052-gke_6.8.0-1052.58_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1052-gkeop (buildd@lcy02-amd64-024) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #56-Ubuntu SMP PREEMPT_DYNAMIC Thu Oct  1 16:38:55 UTC 2026 (Ubuntu 6.8.0-1052.56-gkeop 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1052-gkeop_6.8.0-1052.56_amd64.json.xz"
  ],
  "Linux version 6.8.0-1052-ibm (buildd@lcy02-amd64-002) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #52-Ubuntu SMP Tue Apr 14 21:28:36 UTC 2026 (Ubuntu 6.8.0-1052.52-ibm 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1052/ibm/Ubuntu_6.8.0-1052-ibm_6.8.0-1052.52_amd64.json.xz"
@@ -29389,6 +29659,9 @@
  "Linux version 6.8.0-1062-oracle (buildd@lcy02-amd64-016) (x86_64-linux-gnu-gcc-11 (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #65~22.04.1-Ubuntu SMP Mon Sep 14 05:05:05 UTC 2026 (Ubuntu 6.8.0-1062.65~22.04.1-oracle 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1062/oracle/Ubuntu_6.8.0-1062-oracle_6.8.0-1062.65~22.04.1_amd64.json.xz"
  ],
+ "Linux version 6.8.0-1062-oracle (buildd@lcy02-amd64-111) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #65-Ubuntu SMP Fri Sep 11 02:55:51 UTC 2026 (Ubuntu 6.8.0-1062.65-oracle 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1062-oracle_6.8.0-1062.65_amd64.json.xz"
+ ],
  "Linux version 6.8.0-1063-aws (buildd@lcy02-amd64-060) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #66~22.04.1-Ubuntu SMP Fri Aug  7 17:45:18 UTC 2026 (Ubuntu 6.8.0-1063.66~22.04.1-aws 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1063/aws/Ubuntu_6.8.0-1063-aws_6.8.0-1063.66~22.04.1_amd64.json.xz"
  ],
@@ -29419,6 +29692,15 @@
  "Linux version 6.8.0-1063-ibm (buildd@lcy02-amd64-115) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #64~22.04.1-Ubuntu SMP Fri Aug  7 18:49:03 UTC 2026 (Ubuntu 6.8.0-1063.64~22.04.1-ibm 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1063/ibm/Ubuntu_6.8.0-1063-ibm_6.8.0-1063.64~22.04.1_amd64.json.xz"
  ],
+ "Linux version 6.8.0-1063-nvidia (buildd@lcy02-amd64-053) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #66-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep  4 21:54:56 UTC 2026 (Ubuntu 6.8.0-1063.66-nvidia 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1063-nvidia_6.8.0-1063.66_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1063-nvidia (buildd@lcy02-amd64-070) (x86_64-linux-gnu-gcc-11 (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #66~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Wed Sep  9 21:51:23 UTC 2 (Ubuntu 6.8.0-1063.66~22.04.1-nvidia 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1063-nvidia_6.8.0-1063.66.22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1063-nvidia-lowlatency (buildd@lcy02-amd64-117) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #66.1-Ubuntu SMP PREEMPT_DYNAMIC Wed Sep  9 22:17:01 UTC 2026 (Ubuntu 6.8.0-1063.66.1-nvidia-lowlatency 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1063-nvidia-lowlatency_6.8.0-1063.66.1_amd64.json.xz"
+ ],
  "Linux version 6.8.0-1063-oracle (buildd@lcy02-amd64-067) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #66-Ubuntu SMP Mon Sep 21 15:52:55 UTC 2026 (Ubuntu 6.8.0-1063.66-oracle 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1063/oracle/Ubuntu_6.8.0-1063-oracle_6.8.0-1063.66_amd64.json.xz"
  ],
@@ -29443,6 +29725,12 @@
  "Linux version 6.8.0-1064-gcp (buildd@lcy02-amd64-112) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #72~22.04.1-Ubuntu SMP Sat Jul 11 00:27:00 UTC 2026 (Ubuntu 6.8.0-1064.72~22.04.1-gcp 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1064/gcp/Ubuntu_6.8.0-1064-gcp_6.8.0-1064.72~22.04.1_amd64.json.xz"
  ],
+ "Linux version 6.8.0-1064-gke (buildd@lcy02-amd64-101) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #72-Ubuntu SMP Tue Sep 15 17:38:38 UTC 2026 (Ubuntu 6.8.0-1064.72-gke 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1064-gke_6.8.0-1064.72_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1064-ibm (buildd@lcy02-amd64-014) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #65-Ubuntu SMP Sat Aug 29 00:03:04 UTC 2026 (Ubuntu 6.8.0-1064.65-ibm 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1064-ibm_6.8.0-1064.65_amd64.json.xz"
+ ],
  "Linux version 6.8.0-1064-nvidia (buildd@lcy02-amd64-069) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #67-Ubuntu SMP PREEMPT_DYNAMIC Mon Sep 14 23:03:45 UTC 2026 (Ubuntu 6.8.0-1064.67-nvidia 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1064/nvidia/Ubuntu_6.8.0-1064-nvidia_6.8.0-1064.67_amd64.json.xz"
  ],
@@ -29451,6 +29739,18 @@
  ],
  "Linux version 6.8.0-1064-nvidia-lowlatency (buildd@lcy02-amd64-052) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #67.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Sep 15 22:03:54 UTC 2026 (Ubuntu 6.8.0-1064.67.1-nvidia-lowlatency 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1064/nvidia-lowlatency/Ubuntu_6.8.0-1064-nvidia-lowlatency_6.8.0-1064.67.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1064-oracle (buildd@lcy02-amd64-044) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #67-Ubuntu SMP Wed Sep 30 14:06:18 UTC 2026 (Ubuntu 6.8.0-1064.67-oracle 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1064-oracle_6.8.0-1064.67_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1064-oracle (buildd@lcy02-amd64-049) (x86_64-linux-gnu-gcc-11 (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #67~22.04.1-Ubuntu SMP Wed Sep 30 20:33:43 UTC 2026 (Ubuntu 6.8.0-1064.67~22.04.1-oracle 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1064-oracle_6.8.0-1064.67.22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1065-aws (buildd@lcy02-amd64-001) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #68-Ubuntu SMP Thu Sep 10 20:55:21 UTC 2026 (Ubuntu 6.8.0-1065.68-aws 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1065-aws_6.8.0-1065.68_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1065-aws (buildd@lcy02-amd64-055) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #68~22.04.1-Ubuntu SMP Fri Sep 11 01:12:02 UTC 2026 (Ubuntu 6.8.0-1065.68~22.04.1-aws 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1065-aws_6.8.0-1065.68.22.04.1_amd64.json.xz"
  ],
  "Linux version 6.8.0-1065-azure (buildd@lcy02-amd64-103) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #73-Ubuntu SMP Thu Aug  6 19:32:11 UTC 2026 (Ubuntu 6.8.0-1065.73-azure 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1065/azure/Ubuntu_6.8.0-1065-azure_6.8.0-1065.73_amd64.json.xz"
@@ -29473,6 +29773,27 @@
  "Linux version 6.8.0-1065-gke (buildd@lcy02-amd64-014) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #73-Ubuntu SMP Thu Sep 17 19:41:37 UTC 2026 (Ubuntu 6.8.0-1065.73-gke 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1065/gke/Ubuntu_6.8.0-1065-gke_6.8.0-1065.73_amd64.json.xz"
  ],
+ "Linux version 6.8.0-1065-ibm (buildd@lcy02-amd64-021) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #66-Ubuntu SMP Thu Sep 10 23:58:07 UTC 2026 (Ubuntu 6.8.0-1065.66-ibm 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1065-ibm_6.8.0-1065.66_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1065-nvidia (buildd@lcy02-amd64-013) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #68-Ubuntu SMP PREEMPT_DYNAMIC Wed Sep 30 17:00:52 UTC 2026 (Ubuntu 6.8.0-1065.68-nvidia 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1065-nvidia_6.8.0-1065.68_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1065-nvidia (buildd@lcy02-amd64-068) (x86_64-linux-gnu-gcc-11 (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #68~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Oct  1 13:09:24 UTC 2 (Ubuntu 6.8.0-1065.68~22.04.1-nvidia 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1065-nvidia_6.8.0-1065.68.22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1065-nvidia-lowlatency (buildd@lcy02-amd64-033) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #68.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Oct  1 22:45:50 UTC 2026 (Ubuntu 6.8.0-1065.68.1-nvidia-lowlatency 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1065-nvidia-lowlatency_6.8.0-1065.68.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1066-aws (buildd@lcy02-amd64-029) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #69~22.04.1-Ubuntu SMP Mon Sep 21 16:20:15 UTC 2026 (Ubuntu 6.8.0-1066.69~22.04.1-aws 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1066-aws_6.8.0-1066.69.22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1066-aws (buildd@lcy02-amd64-074) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #69-Ubuntu SMP Fri Sep 18 22:06:05 UTC 2026 (Ubuntu 6.8.0-1066.69-aws 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1066-aws_6.8.0-1066.69_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1066-azure-fde (buildd@lcy02-amd64-038) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #73-Ubuntu SMP Thu Sep 10 22:23:03 UTC 2026 (Ubuntu 6.8.0-1066.73-azure-fde 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1066-azure-fde_6.8.0-1066.73_amd64.json.xz"
+ ],
  "Linux version 6.8.0-1066-azure-fde (buildd@lcy02-amd64-048) (x86_64-linux-gnu-gcc-11 (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #73~22.04.1-Ubuntu SMP Thu Sep 10 22:22:17 UTC 2026 (Ubuntu 6.8.0-1066.73~22.04.1-azure-fde 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1066/azure-fde/Ubuntu_6.8.0-1066-azure-fde_6.8.0-1066.73~22.04.1_amd64.json.xz"
  ],
@@ -29482,8 +29803,20 @@
  "Linux version 6.8.0-1066-gcp (buildd@lcy02-amd64-087) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #74~22.04.1-Ubuntu SMP Fri Aug  7 21:51:15 UTC 2026 (Ubuntu 6.8.0-1066.74~22.04.1-gcp 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1066/gcp/Ubuntu_6.8.0-1066-gcp_6.8.0-1066.74~22.04.1_amd64.json.xz"
  ],
+ "Linux version 6.8.0-1066-gke (buildd@lcy02-amd64-013) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #74-Ubuntu SMP Wed Sep 30 21:33:42 UTC 2026 (Ubuntu 6.8.0-1066.74-gke 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1066-gke_6.8.0-1066.74_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1066-ibm (buildd@lcy02-amd64-092) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #67~22.04.1-Ubuntu SMP Thu Sep 24 23:41:28 UTC 2026 (Ubuntu 6.8.0-1066.67~22.04.1-ibm 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1066-ibm_6.8.0-1066.67.22.04.1_amd64.json.xz"
+ ],
  "Linux version 6.8.0-1066-ibm (buildd@lcy02-amd64-093) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #67-Ubuntu SMP Fri Sep 18 13:49:15 UTC 2026 (Ubuntu 6.8.0-1066.67-ibm 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1066/ibm/Ubuntu_6.8.0-1066-ibm_6.8.0-1066.67_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1067-aws (buildd@lcy02-amd64-019) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #70~22.04.1-Ubuntu SMP Tue Sep 29 13:39:56 UTC 2026 (Ubuntu 6.8.0-1067.70~22.04.1-aws 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1067-aws_6.8.0-1067.70.22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1067-aws (buildd@lcy02-amd64-079) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #70-Ubuntu SMP Tue Sep 29 02:17:22 UTC 2026 (Ubuntu 6.8.0-1067.70-aws 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1067-aws_6.8.0-1067.70_amd64.json.xz"
  ],
  "Linux version 6.8.0-1067-azure (buildd@lcy02-amd64-057) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #75-Ubuntu SMP Fri Aug 14 16:14:17 UTC 2026 (Ubuntu 6.8.0-1067.75-azure 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1067/azure/Ubuntu_6.8.0-1067-azure_6.8.0-1067.75_amd64.json.xz"
@@ -29503,20 +29836,62 @@
  "Linux version 6.8.0-1067-gcp (buildd@lcy02-amd64-093) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #75~22.04.1-Ubuntu SMP Tue Aug 11 22:03:54 UTC 2026 (Ubuntu 6.8.0-1067.75~22.04.1-gcp 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1067/gcp/Ubuntu_6.8.0-1067-gcp_6.8.0-1067.75~22.04.1_amd64.json.xz"
  ],
+ "Linux version 6.8.0-1067-ibm (buildd@lcy02-amd64-075) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #68~22.04.1-Ubuntu SMP Wed Sep 30 19:53:09 UTC 2026 (Ubuntu 6.8.0-1067.68~22.04.1-ibm 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1067-ibm_6.8.0-1067.68.22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1067-ibm (buildd@lcy02-amd64-081) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #68-Ubuntu SMP Wed Sep 30 14:46:29 UTC 2026 (Ubuntu 6.8.0-1067.68-ibm 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1067-ibm_6.8.0-1067.68_amd64.json.xz"
+ ],
  "Linux version 6.8.0-1068-azure (buildd@lcy02-amd64-036) (x86_64-linux-gnu-gcc-11 (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #76~22.04.1-Ubuntu SMP Fri Sep 11 20:14:22 UTC 2026 (Ubuntu 6.8.0-1068.76~22.04.1-azure 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1068/azure/Ubuntu_6.8.0-1068-azure_6.8.0-1068.76~22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1068-azure (buildd@lcy02-amd64-064) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #76-Ubuntu SMP Tue Sep  8 21:19:38 UTC 2026 (Ubuntu 6.8.0-1068.76-azure 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1068-azure_6.8.0-1068.76_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1068-azure-fde (buildd@lcy02-amd64-072) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #75-Ubuntu SMP Fri Sep 25 15:52:59 UTC 2026 (Ubuntu 6.8.0-1068.75-azure-fde 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1068-azure-fde_6.8.0-1068.75_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1068-azure-fde (buildd@lcy02-amd64-109) (x86_64-linux-gnu-gcc-11 (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #75~22.04.1-Ubuntu SMP Thu Sep 24 19:02:13 UTC 2026 (Ubuntu 6.8.0-1068.75~22.04.1-azure-fde 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1068-azure-fde_6.8.0-1068.75.22.04.1_amd64.json.xz"
  ],
  "Linux version 6.8.0-1069-azure (buildd@lcy02-amd64-089) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #77-Ubuntu SMP Wed Sep 16 20:49:30 UTC 2026 (Ubuntu 6.8.0-1069.77-azure 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1069/azure/Ubuntu_6.8.0-1069-azure_6.8.0-1069.77_amd64.json.xz"
  ],
+ "Linux version 6.8.0-1069-azure-fde (buildd@lcy02-amd64-001) (x86_64-linux-gnu-gcc-11 (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #76~22.04.1-Ubuntu SMP Thu Oct  1 17:02:15 UTC 2026 (Ubuntu 6.8.0-1069.76~22.04.1-azure-fde 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1069-azure-fde_6.8.0-1069.76.22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1069-azure-fde (buildd@lcy02-amd64-012) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #76-Ubuntu SMP Thu Oct  1 13:23:56 UTC 2026 (Ubuntu 6.8.0-1069.76-azure-fde 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1069-azure-fde_6.8.0-1069.76_amd64.json.xz"
+ ],
  "Linux version 6.8.0-1069-gcp (buildd@lcy02-amd64-025) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #77~22.04.1-Ubuntu SMP Tue Sep 15 18:07:43 UTC 2026 (Ubuntu 6.8.0-1069.77~22.04.1-gcp 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1069/gcp/Ubuntu_6.8.0-1069-gcp_6.8.0-1069.77~22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1069-gcp (buildd@lcy02-amd64-094) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #77-Ubuntu SMP Tue Sep 15 17:21:20 UTC 2026 (Ubuntu 6.8.0-1069.77-gcp 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1069-gcp_6.8.0-1069.77_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1070-azure (buildd@lcy02-amd64-009) (x86_64-linux-gnu-gcc-11 (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #78~22.04.1-Ubuntu SMP Thu Sep 24 18:46:45 UTC 2026 (Ubuntu 6.8.0-1070.78~22.04.1-azure 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1070-azure_6.8.0-1070.78.22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1070-azure (buildd@lcy02-amd64-078) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #78-Ubuntu SMP Thu Sep 24 15:55:52 UTC 2026 (Ubuntu 6.8.0-1070.78-azure 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1070-azure_6.8.0-1070.78_amd64.json.xz"
  ],
  "Linux version 6.8.0-1070-gcp (buildd@lcy02-amd64-005) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #78~22.04.1-Ubuntu SMP Thu Sep 17 21:46:54 UTC 2026 (Ubuntu 6.8.0-1070.78~22.04.1-gcp 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1070/gcp/Ubuntu_6.8.0-1070-gcp_6.8.0-1070.78~22.04.1_amd64.json.xz"
  ],
  "Linux version 6.8.0-1070-gcp (buildd@lcy02-amd64-055) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #78-Ubuntu SMP Thu Sep 17 15:14:11 UTC 2026 (Ubuntu 6.8.0-1070.78-gcp 6.8.12)": [
   "Ubuntu/amd64/6.8.0/1070/gcp/Ubuntu_6.8.0-1070-gcp_6.8.0-1070.78_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1071-azure (buildd@lcy02-amd64-110) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #79-Ubuntu SMP Tue Sep 29 14:31:16 UTC 2026 (Ubuntu 6.8.0-1071.79-azure 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1071-azure_6.8.0-1071.79_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1071-azure (buildd@lcy02-amd64-114) (x86_64-linux-gnu-gcc-11 (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #79~22.04.1-Ubuntu SMP Wed Sep 30 12:38:23 UTC 2026 (Ubuntu 6.8.0-1071.79~22.04.1-azure 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1071-azure_6.8.0-1071.79.22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1071-gcp (buildd@lcy02-amd64-055) (x86_64-linux-gnu-gcc-12 (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #79~22.04.1-Ubuntu SMP Wed Sep 30 16:56:10 UTC 2026 (Ubuntu 6.8.0-1071.79~22.04.1-gcp 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1071-gcp_6.8.0-1071.79.22.04.1_amd64.json.xz"
+ ],
+ "Linux version 6.8.0-1071-gcp (buildd@lcy02-amd64-119) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #79-Ubuntu SMP Wed Sep 30 13:21:49 UTC 2026 (Ubuntu 6.8.0-1071.79-gcp 6.8.12)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-6.8.0/Ubuntu_6.8.0-1071-gcp_6.8.0-1071.79_amd64.json.xz"
  ],
  "Linux version 6.8.1-1015-realtime (buildd@lcy02-amd64-020) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #16-Ubuntu SMP PREEMPT_RT Wed Jan 15 21:03:54 UTC 2025 (Ubuntu 6.8.1-1015.16-realtime 6.8.12)": [
   "Ubuntu/amd64/6.8.1/1015/realtime/Ubuntu_6.8.1-1015-realtime_6.8.1-1015.16_amd64.json.xz"
@@ -31519,8 +31894,98 @@
  "Linux version 6.12.0-211.58.1.el10_2.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10) #1 SMP PREEMPT_DYNAMIC Wed Sep 23 18:32:32 UTC 2026": [
   "RockyLinux/x86_64/6.12.0/RockyLinux_6.12.0-211.58.1.el10_2_x86_64.json.xz"
  ],
+ "Linux version 6.12.0-211.58.1.el10_2.x86_64 (mockbuild@x64-builder03.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_DYNAMIC Fri Oct  2 10:00:50 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0/AlmaLinux_6.12.0-211.58.1.el10_2_x86_64.json.xz"
+ ],
  "Linux version 6.12.0-211.58.1.el10_2.x86_64+rt (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10) #1 SMP PREEMPT_RT Wed Sep 23 18:29:30 UTC 2026": [
   "RockyLinux/x86_64/6.12.0/rt/RockyLinux_6.12.0-211.58.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.58.1.el10_2.x86_64+rt (mockbuild@x64-builder03.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_RT Fri Oct  2 09:46:58 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0-rt/AlmaLinux_6.12.0-211.58.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.59.1.el10_2.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_DYNAMIC Fri Oct  2 10:06:03 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0/AlmaLinux_6.12.0-211.59.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.59.1.el10_2.x86_64+rt (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_RT Fri Oct  2 09:51:53 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0-rt/AlmaLinux_6.12.0-211.59.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.60.1.el10_2.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10) #1 SMP PREEMPT_DYNAMIC Thu Sep 24 18:32:07 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-6.12.0/RockyLinux_6.12.0-211.60.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.60.1.el10_2.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_DYNAMIC Fri Oct  2 12:17:51 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0/AlmaLinux_6.12.0-211.60.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.60.1.el10_2.x86_64+rt (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10) #1 SMP PREEMPT_RT Thu Sep 24 18:21:14 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-6.12.0-rt/RockyLinux_6.12.0-211.60.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.60.1.el10_2.x86_64+rt (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_RT Fri Oct  2 12:01:46 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0-rt/AlmaLinux_6.12.0-211.60.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.61.1.el10_2.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10) #1 SMP PREEMPT_DYNAMIC Tue Sep 29 12:35:33 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-6.12.0/RockyLinux_6.12.0-211.61.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.61.1.el10_2.x86_64 (mockbuild@x64-builder02.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_DYNAMIC Fri Oct  2 10:06:07 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0/AlmaLinux_6.12.0-211.61.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.61.1.el10_2.x86_64+rt (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10) #1 SMP PREEMPT_RT Tue Sep 29 12:31:25 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-6.12.0-rt/RockyLinux_6.12.0-211.61.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.61.1.el10_2.x86_64+rt (mockbuild@x64-builder02.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_RT Fri Oct  2 09:53:33 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0-rt/AlmaLinux_6.12.0-211.61.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.62.1.el10_2.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10) #1 SMP PREEMPT_DYNAMIC Mon Oct  5 16:39:25 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-6.12.0/RockyLinux_6.12.0-211.62.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.62.1.el10_2.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_DYNAMIC Fri Oct  9 05:21:32 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0/AlmaLinux_6.12.0-211.62.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.62.1.el10_2.x86_64+rt (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10) #1 SMP PREEMPT_RT Mon Oct  5 16:36:23 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-6.12.0-rt/RockyLinux_6.12.0-211.62.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.62.1.el10_2.x86_64+rt (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_RT Fri Oct  9 05:03:02 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0-rt/AlmaLinux_6.12.0-211.62.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.63.1.el10_2.x86_64 (mockbuild@x64-builder03.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_DYNAMIC Thu Oct  8 13:34:02 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0/AlmaLinux_6.12.0-211.63.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.63.1.el10_2.x86_64+rt (mockbuild@x64-builder03.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_RT Thu Oct  8 13:17:06 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0-rt/AlmaLinux_6.12.0-211.63.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.64.1.el10_2.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10) #1 SMP PREEMPT_DYNAMIC Thu Oct  8 15:54:45 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-6.12.0/RockyLinux_6.12.0-211.64.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.64.1.el10_2.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_DYNAMIC Thu Oct  8 14:06:27 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0/AlmaLinux_6.12.0-211.64.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.64.1.el10_2.x86_64+rt (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10) #1 SMP PREEMPT_RT Thu Oct  8 15:51:40 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-6.12.0-rt/RockyLinux_6.12.0-211.64.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.64.1.el10_2.x86_64+rt (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_RT Thu Oct  8 13:41:26 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0-rt/AlmaLinux_6.12.0-211.64.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.65.1.el10_2.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10) #1 SMP PREEMPT_DYNAMIC Tue Oct 13 14:45:55 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-6.12.0/RockyLinux_6.12.0-211.65.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.65.1.el10_2.x86_64 (mockbuild@x64-builder02.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_DYNAMIC Tue Oct 13 06:48:54 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0/AlmaLinux_6.12.0-211.65.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.65.1.el10_2.x86_64+rt (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10) #1 SMP PREEMPT_RT Tue Oct 13 14:42:53 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-6.12.0-rt/RockyLinux_6.12.0-211.65.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.65.1.el10_2.x86_64+rt (mockbuild@x64-builder02.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_RT Tue Oct 13 06:33:12 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0-rt/AlmaLinux_6.12.0-211.65.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.66.1.el10_2.x86_64 (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10) #1 SMP PREEMPT_DYNAMIC Thu Oct 15 11:25:08 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-6.12.0/RockyLinux_6.12.0-211.66.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.66.1.el10_2.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_DYNAMIC Fri Oct 16 08:17:45 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0/AlmaLinux_6.12.0-211.66.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.66.1.el10_2.x86_64+rt (mockbuild@hou1-build-x86-01.releng.rockylinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10) #1 SMP PREEMPT_RT Thu Oct 15 11:18:10 UTC 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-RockyLinux-x86_64-6.12.0-rt/RockyLinux_6.12.0-211.66.1.el10_2_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-211.66.1.el10_2.x86_64+rt (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-63.el10.alma.1) #1 SMP PREEMPT_RT Fri Oct 16 08:03:35 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0-rt/AlmaLinux_6.12.0-211.66.1.el10_2_x86_64.json.xz"
  ],
  "Linux version 6.12.0-212.el10.x86_64 (mockbuild@x64-builder02.almalinux.org) (gcc (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4), GNU ld version 2.41-60.el10.alma.1) #1 SMP PREEMPT_DYNAMIC Tue Mar  3 21:43:48 EST 2026": [
   "AlmaLinux/x86_64/6.12.0/AlmaLinux_6.12.0-212.el10_x86_64.json.xz"
@@ -31641,6 +32106,24 @@
  ],
  "Linux version 6.12.0-267.el10.x86_64+rt (mockbuild@x64-builder02.almalinux.org) (gcc (GCC) 14.4.1 20260724 (Red Hat 14.4.1-3), GNU ld version 2.41-66.el10.alma.1) #1 SMP PREEMPT_RT Wed Sep 16 04:17:09 EDT 2026": [
   "AlmaLinux/x86_64/6.12.0/rt/AlmaLinux_6.12.0-267.el10_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-269.el10.x86_64 (mockbuild@x64-builder02.almalinux.org) (gcc (GCC) 14.4.1 20260724 (Red Hat 14.4.1-3), GNU ld version 2.41-66.el10.alma.1) #1 SMP PREEMPT_DYNAMIC Wed Sep 23 18:48:37 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0/AlmaLinux_6.12.0-269.el10_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-269.el10.x86_64+rt (mockbuild@x64-builder02.almalinux.org) (gcc (GCC) 14.4.1 20260724 (Red Hat 14.4.1-3), GNU ld version 2.41-66.el10.alma.1) #1 SMP PREEMPT_RT Wed Sep 23 18:35:17 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0-rt/AlmaLinux_6.12.0-269.el10_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-271.el10.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 14.4.1 20260724 (Red Hat 14.4.1-3), GNU ld version 2.41-66.el10.alma.1) #1 SMP PREEMPT_DYNAMIC Wed Sep 30 06:50:11 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0/AlmaLinux_6.12.0-271.el10_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-271.el10.x86_64+rt (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 14.4.1 20260724 (Red Hat 14.4.1-3), GNU ld version 2.41-66.el10.alma.1) #1 SMP PREEMPT_RT Wed Sep 30 06:35:42 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0-rt/AlmaLinux_6.12.0-271.el10_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-273.el10.x86_64 (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 14.4.1 20260724 (Red Hat 14.4.1-3), GNU ld version 2.41-66.el10.alma.1) #1 SMP PREEMPT_DYNAMIC Thu Oct  8 14:07:23 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0/AlmaLinux_6.12.0-273.el10_x86_64.json.xz"
+ ],
+ "Linux version 6.12.0-273.el10.x86_64+rt (mockbuild@x64-builder01.almalinux.org) (gcc (GCC) 14.4.1 20260724 (Red Hat 14.4.1-3), GNU ld version 2.41-66.el10.alma.1) #1 SMP PREEMPT_RT Thu Oct  8 13:42:25 EDT 2026": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-AlmaLinux-x86_64-6.12.0-rt/AlmaLinux_6.12.0-273.el10_x86_64.json.xz"
  ],
  "Linux version 6.12.0-1001-gcp (buildd@lcy02-amd64-099) (x86_64-linux-gnu-gcc-14 (Ubuntu 14.2.0-15ubuntu1) 14.2.0, GNU ld (GNU Binutils for Ubuntu) 2.43.90.20250127) #1-Ubuntu SMP Tue Jan 28 17:12:00 UTC 2025 (Ubuntu 6.12.0-1001.1-gcp 6.12.4)": [
   "Ubuntu/amd64/6.12.0/1001/gcp/Ubuntu_6.12.0-1001-gcp_6.12.0-1001.1_amd64.json.xz"
@@ -34156,6 +34639,9 @@
  "Linux version 7.0.0-34-generic (buildd@lcy02-amd64-082) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #34-Ubuntu SMP PREEMPT_DYNAMIC Wed Sep  2 14:29:37 UTC 2026 (Ubuntu 7.0.0-34.34-generic 7.0.14)": [
   "Ubuntu/amd64/7.0.0/34/generic/Ubuntu_7.0.0-34-generic_7.0.0-34.34_amd64.json.xz"
  ],
+ "Linux version 7.0.0-34-generic (buildd@lcy02-amd64-117) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #34~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep  4 15:38:29 UTC 2 (Ubuntu 7.0.0-34.34~24.04.1-generic 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-34-generic_7.0.0-34.34.24.04.1_amd64.json.xz"
+ ],
  "Linux version 7.0.0-34-realtime (buildd@lcy02-amd64-019) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #34.1-Ubuntu SMP PREEMPT_RT Sat Sep  5 01:44:00 UTC 2026 (Ubuntu 7.0.0-34.34.1-realtime 7.0.14)": [
   "Ubuntu/amd64/7.0.0/34/realtime/Ubuntu_7.0.0-34-realtime_7.0.0-34.34.1_amd64.json.xz"
  ],
@@ -34167,6 +34653,15 @@
  ],
  "Linux version 7.0.0-38-realtime (buildd@lcy02-amd64-077) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #38.1-Ubuntu SMP PREEMPT_RT Thu Sep 10 15:24:56 UTC 2026 (Ubuntu 7.0.0-38.38.1-realtime 7.0.14)": [
   "Ubuntu/amd64/7.0.0/38/realtime/Ubuntu_7.0.0-38-realtime_7.0.0-38.38.1_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-39-generic (buildd@lcy02-amd64-022) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #39-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep 24 11:18:19 UTC 2026 (Ubuntu 7.0.0-39.39-generic 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-39-generic_7.0.0-39.39_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-39-generic (buildd@lcy02-amd64-055) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #39~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Sep 28 12:12:56 UTC 2 (Ubuntu 7.0.0-39.39~24.04.1-generic 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-39-generic_7.0.0-39.39.24.04.1_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-39-realtime (buildd@lcy02-amd64-076) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #39.1-Ubuntu SMP PREEMPT_RT Mon Sep 28 11:58:54 UTC 2026 (Ubuntu 7.0.0-39.39.1-realtime 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-39-realtime_7.0.0-39.39.1_amd64.json.xz"
  ],
  "Linux version 7.0.0-1001-gke (buildd@lcy02-amd64-067) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #2-Ubuntu SMP PREEMPT Tue Jun  2 18:15:51 UTC 2026 (Ubuntu 7.0.0-1001.2-gke 7.0.6)": [
   "Ubuntu/amd64/7.0.0/1001/gke/Ubuntu_7.0.0-1001-gke_7.0.0-1001.2_amd64.json.xz"
@@ -34215,6 +34710,9 @@
  ],
  "Linux version 7.0.0-1004-ibm (buildd@lcy02-amd64-045) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #4-Ubuntu SMP PREEMPT Thu Apr  2 13:09:46 UTC 2026 (Ubuntu 7.0.0-1004.4-ibm 7.0.0-rc6)": [
   "Ubuntu/amd64/7.0.0/1004/ibm/Ubuntu_7.0.0-1004-ibm_7.0.0-1004.4_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1004-vmware (buildd@lcy02-amd64-093) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #4-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep 24 21:55:30 UTC 2026 (Ubuntu 7.0.0-1004.4-vmware 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1004-vmware_7.0.0-1004.4_amd64.json.xz"
  ],
  "Linux version 7.0.0-1005-gcp (buildd@lcy02-amd64-112) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #5-Ubuntu SMP PREEMPT Tue May 26 15:11:20 UTC 2026 (Ubuntu 7.0.0-1005.5-gcp 7.0.0)": [
   "Ubuntu/amd64/7.0.0/1005/gcp/Ubuntu_7.0.0-1005-gcp_7.0.0-1005.5_amd64.json.xz"
@@ -34273,6 +34771,9 @@
  "Linux version 7.0.0-1007-gcp (buildd@lcy02-amd64-001) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #7-Ubuntu SMP PREEMPT Fri Jun 19 15:06:43 UTC 2026 (Ubuntu 7.0.0-1007.7-gcp 7.0.6)": [
   "Ubuntu/amd64/7.0.0/1007/gcp/Ubuntu_7.0.0-1007-gcp_7.0.0-1007.7_amd64.json.xz"
  ],
+ "Linux version 7.0.0-1007-gke (buildd@lcy02-amd64-036) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #8-Ubuntu SMP PREEMPT Tue Sep 15 18:19:33 UTC 2026 (Ubuntu 7.0.0-1007.8-gke 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1007-gke_7.0.0-1007.8_amd64.json.xz"
+ ],
  "Linux version 7.0.0-1007-ibm (buildd@lcy02-amd64-056) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #7-Ubuntu SMP PREEMPT Tue May 26 16:41:08 UTC 2026 (Ubuntu 7.0.0-1007.7-ibm 7.0.0)": [
   "Ubuntu/amd64/7.0.0/1007/ibm/Ubuntu_7.0.0-1007-ibm_7.0.0-1007.7_amd64.json.xz"
  ],
@@ -34317,6 +34818,9 @@
  ],
  "Linux version 7.0.0-1009-azure-fde (buildd@lcy02-amd64-056) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #9-Ubuntu SMP PREEMPT Tue Jun 30 21:08:17 UTC 2026 (Ubuntu 7.0.0-1009.9-azure-fde 7.0.12)": [
   "Ubuntu/amd64/7.0.0/1009/azure-fde/Ubuntu_7.0.0-1009-azure-fde_7.0.0-1009.9_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1009-gke (buildd@lcy02-amd64-042) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #10-Ubuntu SMP PREEMPT Mon Sep 28 14:36:25 UTC 2026 (Ubuntu 7.0.0-1009.10-gke 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1009-gke_7.0.0-1009.10_amd64.json.xz"
  ],
  "Linux version 7.0.0-1009-ibm (buildd@lcy02-amd64-090) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #9-Ubuntu SMP PREEMPT Fri Jun 19 09:54:44 UTC 2026 (Ubuntu 7.0.0-1009.9-ibm 7.0.6)": [
   "Ubuntu/amd64/7.0.0/1009/ibm/Ubuntu_7.0.0-1009-ibm_7.0.0-1009.9_amd64.json.xz"
@@ -34408,6 +34912,12 @@
  "Linux version 7.0.0-1012-oracle (buildd@lcy02-amd64-045) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #12-Ubuntu SMP PREEMPT Fri Sep 11 03:01:08 UTC 2026 (Ubuntu 7.0.0-1012.12-oracle 7.0.14)": [
   "Ubuntu/amd64/7.0.0/1012/oracle/Ubuntu_7.0.0-1012-oracle_7.0.0-1012.12_amd64.json.xz"
  ],
+ "Linux version 7.0.0-1012-oracle (buildd@lcy02-amd64-088) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #12~24.04.1-Ubuntu SMP PREEMPT Mon Sep 14 05:12:07 UTC 2026 (Ubuntu 7.0.0-1012.12~24.04.1-oracle 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1012-oracle_7.0.0-1012.12.24.04.1_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1013-aws (buildd@lcy02-amd64-024) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #13~24.04.1-Ubuntu SMP PREEMPT Sat Sep  5 01:10:01 UTC 2026 (Ubuntu 7.0.0-1013.13~24.04.1-aws 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1013-aws_7.0.0-1013.13.24.04.1_amd64.json.xz"
+ ],
  "Linux version 7.0.0-1013-aws (buildd@lcy02-amd64-118) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #13-Ubuntu SMP PREEMPT Fri Sep  4 17:02:11 UTC 2026 (Ubuntu 7.0.0-1013.13-aws 7.0.14)": [
   "Ubuntu/amd64/7.0.0/1013/aws/Ubuntu_7.0.0-1013-aws_7.0.0-1013.13_amd64.json.xz"
  ],
@@ -34416,6 +34926,12 @@
  ],
  "Linux version 7.0.0-1013-azure-fde (buildd@lcy02-amd64-039) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #13~24.04.1-Ubuntu SMP PREEMPT Fri Aug 14 17:26:59 UTC 2026 (Ubuntu 7.0.0-1013.13~24.04.1-azure-fde 7.0.14)": [
   "Ubuntu/amd64/7.0.0/1013/azure-fde/Ubuntu_7.0.0-1013-azure-fde_7.0.0-1013.13~24.04.1_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1013-gcp (buildd@lcy02-amd64-059) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #13~24.04.1-Ubuntu SMP PREEMPT Tue Sep 15 18:10:25 UTC 2026 (Ubuntu 7.0.0-1013.13~24.04.1-gcp 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1013-gcp_7.0.0-1013.13.24.04.1_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1013-gcp (buildd@lcy02-amd64-093) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #13-Ubuntu SMP PREEMPT Tue Sep 15 17:49:22 UTC 2026 (Ubuntu 7.0.0-1013.13-gcp 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1013-gcp_7.0.0-1013.13_amd64.json.xz"
  ],
  "Linux version 7.0.0-1013-ibm (buildd@lcy02-amd64-059) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #13-Ubuntu SMP PREEMPT Thu Aug 13 18:47:16 UTC 2026 (Ubuntu 7.0.0-1013.13-ibm 7.0.14)": [
   "Ubuntu/amd64/7.0.0/1013/ibm/Ubuntu_7.0.0-1013-ibm_7.0.0-1013.13_amd64.json.xz"
@@ -34428,6 +34944,9 @@
  ],
  "Linux version 7.0.0-1013-oem (buildd@lcy02-amd64-088) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #13-Ubuntu SMP PREEMPT_DYNAMIC Mon Aug 24 08:15:59 UTC 2026 (Ubuntu 7.0.0-1013.13-oem 7.0.14)": [
   "Ubuntu/amd64/7.0.0/1013/oem/Ubuntu_7.0.0-1013-oem_7.0.0-1013.13_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1013-oracle (buildd@lcy02-amd64-011) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #13~24.04.1-Ubuntu SMP PREEMPT Fri Sep 25 09:28:21 UTC 2026 (Ubuntu 7.0.0-1013.13~24.04.1-oracle 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1013-oracle_7.0.0-1013.13.24.04.1_amd64.json.xz"
  ],
  "Linux version 7.0.0-1013-oracle (buildd@lcy02-amd64-111) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #13-Ubuntu SMP PREEMPT Mon Sep 21 15:48:16 UTC 2026 (Ubuntu 7.0.0-1013.13-oracle 7.0.14)": [
   "Ubuntu/amd64/7.0.0/1013/oracle/Ubuntu_7.0.0-1013-oracle_7.0.0-1013.13_amd64.json.xz"
@@ -34456,8 +34975,29 @@
  "Linux version 7.0.0-1014-nvidia (buildd@lcy02-amd64-026) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #14-Ubuntu SMP PREEMPT_DYNAMIC Fri Jun 19 00:52:46 UTC 2026 (Ubuntu 7.0.0-1014.14-nvidia 7.0.6)": [
   "Ubuntu/amd64/7.0.0/1014/nvidia/Ubuntu_7.0.0-1014-nvidia_7.0.0-1014.14_amd64.json.xz"
  ],
+ "Linux version 7.0.0-1014-oem (buildd@lcy02-amd64-009) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #14-Ubuntu SMP PREEMPT_DYNAMIC Mon Sep  7 04:45:41 UTC 2026 (Ubuntu 7.0.0-1014.14-oem 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1014-oem_7.0.0-1014.14_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1014-oracle (buildd@lcy02-amd64-040) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #14~24.04.1-Ubuntu SMP PREEMPT Thu Oct  1 09:21:21 UTC 2026 (Ubuntu 7.0.0-1014.14~24.04.1-oracle 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1014-oracle_7.0.0-1014.14.24.04.1_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1014-oracle (buildd@lcy02-amd64-059) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #14-Ubuntu SMP PREEMPT Mon Sep 28 16:12:35 UTC 2026 (Ubuntu 7.0.0-1014.14-oracle 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1014-oracle_7.0.0-1014.14_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1015-aws (buildd@lcy02-amd64-050) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #15-Ubuntu SMP PREEMPT Mon Sep 28 10:35:11 UTC 2026 (Ubuntu 7.0.0-1015.15-aws 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1015-aws_7.0.0-1015.15_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1015-aws (buildd@lcy02-amd64-087) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #15~24.04.1-Ubuntu SMP PREEMPT Mon Sep 28 13:24:25 UTC 2026 (Ubuntu 7.0.0-1015.15~24.04.1-aws 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1015-aws_7.0.0-1015.15.24.04.1_amd64.json.xz"
+ ],
  "Linux version 7.0.0-1015-azure-fde (buildd@lcy02-amd64-107) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #15-Ubuntu SMP PREEMPT Fri Sep 18 02:42:01 UTC 2026 (Ubuntu 7.0.0-1015.15-azure-fde 7.0.14)": [
   "Ubuntu/amd64/7.0.0/1015/azure-fde/Ubuntu_7.0.0-1015-azure-fde_7.0.0-1015.15_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1015-gcp (buildd@lcy02-amd64-022) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #15~24.04.1-Ubuntu SMP PREEMPT Mon Sep 28 13:24:14 UTC 2026 (Ubuntu 7.0.0-1015.15~24.04.1-gcp 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1015-gcp_7.0.0-1015.15.24.04.1_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1015-gcp (buildd@lcy02-amd64-029) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #15-Ubuntu SMP PREEMPT Mon Sep 28 10:59:53 UTC 2026 (Ubuntu 7.0.0-1015.15-gcp 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1015-gcp_7.0.0-1015.15_amd64.json.xz"
  ],
  "Linux version 7.0.0-1015-ibm (buildd@lcy02-amd64-020) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #15-Ubuntu SMP PREEMPT Wed Sep 16 20:25:49 UTC 2026 (Ubuntu 7.0.0-1015.15-ibm 7.0.14)": [
   "Ubuntu/amd64/7.0.0/1015/ibm/Ubuntu_7.0.0-1015-ibm_7.0.0-1015.15_amd64.json.xz"
@@ -34474,14 +35014,44 @@
  "Linux version 7.0.0-1016-azure (buildd@lcy02-amd64-097) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #16-Ubuntu SMP PREEMPT Wed Sep 16 20:24:22 UTC 2026 (Ubuntu 7.0.0-1016.16-azure 7.0.14)": [
   "Ubuntu/amd64/7.0.0/1016/azure/Ubuntu_7.0.0-1016-azure_7.0.0-1016.16_amd64.json.xz"
  ],
+ "Linux version 7.0.0-1016-azure-fde (buildd@lcy02-amd64-026) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #16~24.04.1-Ubuntu SMP PREEMPT Thu Sep 24 18:43:30 UTC 2026 (Ubuntu 7.0.0-1016.16~24.04.1-azure-fde 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1016-azure-fde_7.0.0-1016.16.24.04.1_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1016-azure-fde (buildd@lcy02-amd64-111) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #16-Ubuntu SMP PREEMPT Thu Sep 24 17:38:31 UTC 2026 (Ubuntu 7.0.0-1016.16-azure-fde 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1016-azure-fde_7.0.0-1016.16_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1016-ibm (buildd@lcy02-amd64-033) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #16-Ubuntu SMP PREEMPT Mon Sep 28 10:46:35 UTC 2026 (Ubuntu 7.0.0-1016.16-ibm 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1016-ibm_7.0.0-1016.16_amd64.json.xz"
+ ],
  "Linux version 7.0.0-1016-nvidia (buildd@lcy02-amd64-039) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #16-Ubuntu SMP PREEMPT_DYNAMIC Wed Jul 22 15:15:16 UTC 2026 (Ubuntu 7.0.0-1016.16-nvidia 7.0.12)": [
   "Ubuntu/amd64/7.0.0/1016/nvidia/Ubuntu_7.0.0-1016-nvidia_7.0.0-1016.16_amd64.json.xz"
  ],
  "Linux version 7.0.0-1016-nvidia (buildd@lcy02-amd64-075) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #16~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Jul 23 18:24:12 UTC 2 (Ubuntu 7.0.0-1016.16~24.04.1-nvidia 7.0.12)": [
   "Ubuntu/amd64/7.0.0/1016/nvidia/Ubuntu_7.0.0-1016-nvidia_7.0.0-1016.16~24.04.1_amd64.json.xz"
  ],
+ "Linux version 7.0.0-1016-oem (buildd@lcy02-amd64-019) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #16-Ubuntu SMP PREEMPT_DYNAMIC Tue Sep 29 07:07:06 UTC 2026 (Ubuntu 7.0.0-1016.16-oem 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1016-oem_7.0.0-1016.16_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1017-azure (buildd@lcy02-amd64-066) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #17~24.04.1-Ubuntu SMP PREEMPT Thu Sep 24 18:46:57 UTC 2026 (Ubuntu 7.0.0-1017.17~24.04.1-azure 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1017-azure_7.0.0-1017.17.24.04.1_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1017-azure (buildd@lcy02-amd64-092) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #17-Ubuntu SMP PREEMPT Thu Sep 24 15:54:51 UTC 2026 (Ubuntu 7.0.0-1017.17-azure 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1017-azure_7.0.0-1017.17_amd64.json.xz"
+ ],
  "Linux version 7.0.0-1017-nvidia (buildd@lcy02-amd64-010) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #17-Ubuntu SMP PREEMPT_DYNAMIC Tue Aug  4 22:30:15 UTC 2026 (Ubuntu 7.0.0-1017.17-nvidia 7.0.12)": [
   "Ubuntu/amd64/7.0.0/1017/nvidia/Ubuntu_7.0.0-1017-nvidia_7.0.0-1017.17_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1018-azure (buildd@lcy02-amd64-038) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #18-Ubuntu SMP PREEMPT Thu Oct  1 07:56:54 UTC 2026 (Ubuntu 7.0.0-1018.18-azure 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1018-azure_7.0.0-1018.18_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1018-azure (buildd@lcy02-amd64-081) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #18~24.04.1-Ubuntu SMP PREEMPT Thu Oct  1 16:03:57 UTC 2026 (Ubuntu 7.0.0-1018.18~24.04.1-azure 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1018-azure_7.0.0-1018.18.24.04.1_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1018-azure-fde (buildd@lcy02-amd64-079) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #18-Ubuntu SMP PREEMPT Thu Oct  1 10:36:36 UTC 2026 (Ubuntu 7.0.0-1018.18-azure-fde 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1018-azure-fde_7.0.0-1018.18_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1018-azure-fde (buildd@lcy02-amd64-107) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #18~24.04.1-Ubuntu SMP PREEMPT Fri Oct  2 09:35:57 UTC 2026 (Ubuntu 7.0.0-1018.18~24.04.1-azure-fde 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1018-azure-fde_7.0.0-1018.18.24.04.1_amd64.json.xz"
  ],
  "Linux version 7.0.0-1018-nvidia (buildd@lcy02-amd64-022) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #18-Ubuntu SMP PREEMPT_DYNAMIC Wed Aug 12 05:40:06 UTC 2026 (Ubuntu 7.0.0-1018.18-nvidia 7.0.14)": [
   "Ubuntu/amd64/7.0.0/1018/nvidia/Ubuntu_7.0.0-1018-nvidia_7.0.0-1018.18_amd64.json.xz"
@@ -34489,11 +35059,26 @@
  "Linux version 7.0.0-1018-nvidia (buildd@lcy02-amd64-087) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #18~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Wed Aug 12 17:37:07 UTC 2 (Ubuntu 7.0.0-1018.18~24.04.1-nvidia 7.0.14)": [
   "Ubuntu/amd64/7.0.0/1018/nvidia/Ubuntu_7.0.0-1018-nvidia_7.0.0-1018.18~24.04.1_amd64.json.xz"
  ],
+ "Linux version 7.0.0-1019-nvidia (buildd@lcy02-amd64-042) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #19~24.04.2-Ubuntu SMP PREEMPT_DYNAMIC Sun Sep  6 17:50:44 UTC 2 (Ubuntu 7.0.0-1019.19~24.04.2-nvidia 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1019-nvidia_7.0.0-1019.19.24.04.2_amd64.json.xz"
+ ],
  "Linux version 7.0.0-1020-nvidia (buildd@lcy02-amd64-001) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #20~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Sun Sep 13 05:35:31 UTC 2 (Ubuntu 7.0.0-1020.20~24.04.1-nvidia 7.0.14)": [
   "Ubuntu/amd64/7.0.0/1020/nvidia/Ubuntu_7.0.0-1020-nvidia_7.0.0-1020.20~24.04.1_amd64.json.xz"
  ],
  "Linux version 7.0.0-1020-nvidia (buildd@lcy02-amd64-097) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #20-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep 11 21:16:01 UTC 2026 (Ubuntu 7.0.0-1020.20-nvidia 7.0.14)": [
   "Ubuntu/amd64/7.0.0/1020/nvidia/Ubuntu_7.0.0-1020-nvidia_7.0.0-1020.20_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1021-nvidia (buildd@lcy02-amd64-020) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #22~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Oct  1 18:27:15 UTC 2 (Ubuntu 7.0.0-1021.22~24.04.1-nvidia 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1021-nvidia_7.0.0-1021.22.24.04.1_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1021-nvidia (buildd@lcy02-amd64-091) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #22-Ubuntu SMP PREEMPT_DYNAMIC Wed Sep 30 00:05:03 UTC 2026 (Ubuntu 7.0.0-1021.22-nvidia 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1021-nvidia_7.0.0-1021.22_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1022-nvidia (buildd@lcy02-amd64-021) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #23-Ubuntu SMP PREEMPT_DYNAMIC Fri Oct  2 23:22:45 UTC 2026 (Ubuntu 7.0.0-1022.23-nvidia 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1022-nvidia_7.0.0-1022.23_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-1022-nvidia (buildd@lcy02-amd64-041) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #23~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Sat Oct  3 00:07:34 UTC 2 (Ubuntu 7.0.0-1022.23~24.04.1-nvidia 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-1022-nvidia_7.0.0-1022.23.24.04.1_amd64.json.xz"
  ],
  "Linux version 7.0.0-2005-nvidia-bos (buildd@lcy02-amd64-101) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #5-Ubuntu SMP PREEMPT_DYNAMIC Thu Apr 16 04:51:18 UTC 2026 (Ubuntu 7.0.0-2005.5-nvidia-bos 7.0.0)": [
   "Ubuntu/amd64/7.0.0/2005/nvidia-bos/Ubuntu_7.0.0-2005-nvidia-bos_7.0.0-2005.5_amd64.json.xz"
@@ -34531,6 +35116,15 @@
  "Linux version 7.0.0-2019-nvidia-bos (buildd@lcy02-amd64-051) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #19-Ubuntu SMP PREEMPT_DYNAMIC Wed Sep 16 15:43:35 UTC 2026 (Ubuntu 7.0.0-2019.19-nvidia-bos 7.0.14)": [
   "Ubuntu/amd64/7.0.0/2019/nvidia-bos/Ubuntu_7.0.0-2019-nvidia-bos_7.0.0-2019.19_amd64.json.xz"
  ],
+ "Linux version 7.0.0-2020-nvidia-bos (buildd@lcy02-amd64-023) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #21-Ubuntu SMP PREEMPT_DYNAMIC Wed Sep 30 00:02:33 UTC 2026 (Ubuntu 7.0.0-2020.21-nvidia-bos 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-2020-nvidia-bos_7.0.0-2020.21_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-2021-nvidia-bos (buildd@lcy02-amd64-037) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #22-Ubuntu SMP PREEMPT_DYNAMIC Fri Oct  2 23:48:03 UTC 2026 (Ubuntu 7.0.0-2021.22-nvidia-bos 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-2021-nvidia-bos_7.0.0-2021.22_amd64.json.xz"
+ ],
+ "Linux version 7.0.0-2022-nvidia-bos (buildd@lcy02-amd64-113) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #23-Ubuntu SMP PREEMPT_DYNAMIC Fri Oct  9 00:17:14 UTC 2026 (Ubuntu 7.0.0-2022.23-nvidia-bos 7.0.14)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.0.0/Ubuntu_7.0.0-2022-nvidia-bos_7.0.0-2022.23_amd64.json.xz"
+ ],
  "Linux version 7.0.3+deb14-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-15 (Debian 15.2.0-17) 15.2.0, GNU ld (GNU Binutils for Debian) 2.46) #1 SMP PREEMPT_DYNAMIC Debian 7.0.3-1 (2026-04-30)": [
   "Debian/amd64/7.0.3+deb14/Debian_7.0.3+deb14-amd64_7.0.3-1_amd64.json.xz"
  ],
@@ -34557,6 +35151,12 @@
  ],
  "Linux version 7.0.4+deb14-rt-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-15 (Debian 15.2.0-17) 15.2.0, GNU ld (GNU Binutils for Debian) 2.46) #1 SMP PREEMPT_RT Debian 7.0.4-1 (2026-05-07)": [
   "Debian/amd64/7.0.4+deb14/rt/Debian_7.0.4+deb14-rt-amd64_7.0.4-1_amd64.json.xz"
+ ],
+ "Linux version 7.0.4+kali-cloud-amd64 (devel@kali.org) (x86_64-linux-gnu-gcc-15 (Debian 15.2.0-17) 15.2.0, GNU ld (GNU Binutils for Debian) 2.46) #1 SMP PREEMPT_DYNAMIC Kali 7.0.4-1kali1 (2026-05-13)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-KaliLinux-amd64-7.0.4%2Bkali/KaliLinux_7.0.4%2Bkali-cloud-amd64_7.0.4-1kali1_amd64.json.xz"
+ ],
+ "Linux version 7.0.4+kali-rt-amd64 (devel@kali.org) (x86_64-linux-gnu-gcc-15 (Debian 15.2.0-17) 15.2.0, GNU ld (GNU Binutils for Debian) 2.46) #1 SMP PREEMPT_RT Kali 7.0.4-1kali1 (2026-05-13)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-KaliLinux-amd64-7.0.4%2Bkali/KaliLinux_7.0.4%2Bkali-rt-amd64_7.0.4-1kali1_amd64.json.xz"
  ],
  "Linux version 7.0.7+deb13-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-14 (Debian 14.2.0-19) 14.2.0, GNU ld (GNU Binutils for Debian) 2.44) #1 SMP PREEMPT_DYNAMIC Debian 7.0.7-1~bpo13+1 (2026-05-16)": [
   "Debian/amd64/7.0.7+deb13/Debian_7.0.7+deb13-amd64_7.0.7-1~bpo13+1_amd64.json.xz"
@@ -34612,6 +35212,12 @@
  "Linux version 7.0.10+deb14-rt-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-15 (Debian 15.2.0-17) 15.2.0, GNU ld (GNU Binutils for Debian) 2.46) #1 SMP PREEMPT_RT Debian 7.0.10-1 (2026-05-27)": [
   "Debian/amd64/7.0.10+deb14/rt/Debian_7.0.10+deb14-rt-amd64_7.0.10-1_amd64.json.xz"
  ],
+ "Linux version 7.0.10+kali-cloud-amd64 (devel@kali.org) (x86_64-linux-gnu-gcc-15 (Debian 15.2.0-17) 15.2.0, GNU ld (GNU Binutils for Debian) 2.46) #1 SMP PREEMPT_DYNAMIC Kali 7.0.10-1kali1 (2026-06-01)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-KaliLinux-amd64-7.0.10%2Bkali/KaliLinux_7.0.10%2Bkali-cloud-amd64_7.0.10-1kali1_amd64.json.xz"
+ ],
+ "Linux version 7.0.10+kali-rt-amd64 (devel@kali.org) (x86_64-linux-gnu-gcc-15 (Debian 15.2.0-17) 15.2.0, GNU ld (GNU Binutils for Debian) 2.46) #1 SMP PREEMPT_RT Kali 7.0.10-1kali1 (2026-06-01)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-KaliLinux-amd64-7.0.10%2Bkali/KaliLinux_7.0.10%2Bkali-rt-amd64_7.0.10-1kali1_amd64.json.xz"
+ ],
  "Linux version 7.0.12+deb13-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-14 (Debian 14.2.0-19) 14.2.0, GNU ld (GNU Binutils for Debian) 2.44) #1 SMP PREEMPT_DYNAMIC Debian 7.0.12-2~bpo13+1 (2026-06-21)": [
   "Debian/amd64/7.0.12+deb13/Debian_7.0.12+deb13-amd64_7.0.12-2~bpo13+1_amd64.json.xz"
  ],
@@ -34638,6 +35244,12 @@
  ],
  "Linux version 7.0.12+deb14.1-rt-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-15 (Debian 15.2.0-17) 15.2.0, GNU ld (GNU Binutils for Debian) 2.46.50.20260608) #1 SMP PREEMPT_RT Debian 7.0.12-2 (2026-06-12)": [
   "Debian/amd64/7.0.12+deb14.1/rt/Debian_7.0.12+deb14.1-rt-amd64_7.0.12-2_amd64.json.xz"
+ ],
+ "Linux version 7.0.12+kali-cloud-amd64 (devel@kali.org) (x86_64-linux-gnu-gcc-15 (Debian 15.2.0-17) 15.2.0, GNU ld (GNU Binutils for Debian) 2.46.50.20260608) #1 SMP PREEMPT_DYNAMIC Kali 7.0.12-2kali1 (2026-06-18)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-KaliLinux-amd64-7.0.12%2Bkali/KaliLinux_7.0.12%2Bkali-cloud-amd64_7.0.12-2kali1_amd64.json.xz"
+ ],
+ "Linux version 7.0.12+kali-rt-amd64 (devel@kali.org) (x86_64-linux-gnu-gcc-15 (Debian 15.2.0-17) 15.2.0, GNU ld (GNU Binutils for Debian) 2.46.50.20260608) #1 SMP PREEMPT_RT Kali 7.0.12-2kali1 (2026-06-18)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-KaliLinux-amd64-7.0.12%2Bkali/KaliLinux_7.0.12%2Bkali-rt-amd64_7.0.12-2kali1_amd64.json.xz"
  ],
  "Linux version 7.0.13+deb13-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-14 (Debian 14.2.0-19) 14.2.0, GNU ld (GNU Binutils for Debian) 2.44) #1 SMP PREEMPT_DYNAMIC Debian 7.0.13-1~bpo13+1 (2026-07-05)": [
   "Debian/amd64/7.0.13+deb13/Debian_7.0.13+deb13-amd64_7.0.13-1~bpo13+1_amd64.json.xz"
@@ -34692,6 +35304,12 @@
  ],
  "Linux version 7.1.5+deb14-rt-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-15 (Debian 15.3.0-2) 15.3.0, GNU ld (GNU Binutils for Debian) 2.46.90.20260712) #1 SMP PREEMPT_RT Debian 7.1.5-1 (2026-07-27)": [
   "Debian/amd64/7.1.5+deb14/rt/Debian_7.1.5+deb14-rt-amd64_7.1.5-1_amd64.json.xz"
+ ],
+ "Linux version 7.1.5+kali-cloud-amd64 (devel@kali.org) (x86_64-linux-gnu-gcc-15 (Debian 15.3.0-2) 15.3.0, GNU ld (GNU Binutils for Debian) 2.46.90.20260712) #1 SMP PREEMPT_DYNAMIC Kali 7.1.5-1kali1 (2026-07-29)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-KaliLinux-amd64-7.1.5%2Bkali/KaliLinux_7.1.5%2Bkali-cloud-amd64_7.1.5-1kali1_amd64.json.xz"
+ ],
+ "Linux version 7.1.5+kali-rt-amd64 (devel@kali.org) (x86_64-linux-gnu-gcc-15 (Debian 15.3.0-2) 15.3.0, GNU ld (GNU Binutils for Debian) 2.46.90.20260712) #1 SMP PREEMPT_RT Kali 7.1.5-1kali1 (2026-07-29)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-KaliLinux-amd64-7.1.5%2Bkali/KaliLinux_7.1.5%2Bkali-rt-amd64_7.1.5-1kali1_amd64.json.xz"
  ],
  "Linux version 7.1.6+deb14-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-15 (Debian 15.3.0-2) 15.3.0, GNU ld (GNU Binutils for Debian) 2.47) #1 SMP PREEMPT_DYNAMIC Debian 7.1.6-1 (2026-08-03)": [
   "Debian/amd64/7.1.6+deb14/Debian_7.1.6+deb14-amd64_7.1.6-1_amd64.json.xz"
@@ -34816,11 +35434,23 @@
  "Linux version 7.2.7+deb14-rt-amd64 (debian-kernel@lists.debian.org) (x86_64-linux-gnu-gcc-16 (Debian 16.2.0-3) 16.2.0, GNU ld (GNU Binutils for Debian) 2.47) #1 SMP PREEMPT_RT Debian 7.2.7-1 (2026-09-23)": [
   "Debian/amd64/7.2.7+deb14/rt/Debian_7.2.7+deb14-rt-amd64_7.2.7-1_amd64.json.xz"
  ],
+ "Linux version 7.2.9+kali-cloud-amd64 (devel@kali.org) (x86_64-linux-gnu-gcc-16 (Debian 16.2.0-3) 16.2.0, GNU ld (GNU Binutils for Debian) 2.47) #1 SMP PREEMPT_DYNAMIC Kali 7.2.9-1kali1 (2026-10-05)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-KaliLinux-amd64-7.2.9%2Bkali/KaliLinux_7.2.9%2Bkali-cloud-amd64_7.2.9-1kali1_amd64.json.xz"
+ ],
+ "Linux version 7.2.9+kali-rt-amd64 (devel@kali.org) (x86_64-linux-gnu-gcc-16 (Debian 16.2.0-3) 16.2.0, GNU ld (GNU Binutils for Debian) 2.47) #1 SMP PREEMPT_RT Kali 7.2.9-1kali1 (2026-10-05)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-KaliLinux-amd64-7.2.9%2Bkali/KaliLinux_7.2.9%2Bkali-rt-amd64_7.2.9-1kali1_amd64.json.xz"
+ ],
  "Linux version 7.3.0-5-generic (buildd@lcy02-amd64-101) (x86_64-linux-gnu-gcc (Ubuntu 15.3.0-3ubuntu1) 15.3.0, GNU ld (GNU Binutils for Ubuntu) 2.47) #5-Ubuntu SMP PREEMPT_DYNAMIC Mon Sep 14 11:40:59 UTC 2026 (Ubuntu 7.3.0-5.5-generic 7.3.0-rc3)": [
   "Ubuntu/amd64/7.3.0/5/generic/Ubuntu_7.3.0-5-generic_7.3.0-5.5_amd64.json.xz"
  ],
  "Linux version 7.3.0-6-generic (buildd@lcy02-amd64-038) (x86_64-linux-gnu-gcc (Ubuntu 15.3.0-4ubuntu1) 15.3.0, GNU ld (GNU Binutils for Ubuntu) 2.47) #6-Ubuntu SMP PREEMPT_DYNAMIC Mon Sep 21 16:58:57 UTC 2026 (Ubuntu 7.3.0-6.6-generic 7.3.0-rc4)": [
   "Ubuntu/amd64/7.3.0/6/generic/Ubuntu_7.3.0-6-generic_7.3.0-6.6_amd64.json.xz"
+ ],
+ "Linux version 7.3.0-9-generic (buildd@lcy02-amd64-053) (x86_64-linux-gnu-gcc (Ubuntu 15.3.0-4ubuntu1) 15.3.0, GNU ld (GNU Binutils for Ubuntu) 2.47) #9-Ubuntu SMP PREEMPT_DYNAMIC Mon Oct  5 10:38:02 UTC 2026 (Ubuntu 7.3.0-9.9-generic 7.3.0-rc6)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.3.0/Ubuntu_7.3.0-9-generic_7.3.0-9.9_amd64.json.xz"
+ ],
+ "Linux version 7.3.0-9-realtime (buildd@lcy02-amd64-081) (x86_64-linux-gnu-gcc (Ubuntu 15.3.0-4ubuntu1) 15.3.0, GNU ld (GNU Binutils for Ubuntu) 2.47) #9.1-Ubuntu SMP PREEMPT_RT Tue Oct  6 12:12:57 UTC 2026 (Ubuntu 7.3.0-9.9.1-realtime 7.3.0-rc6)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.3.0/Ubuntu_7.3.0-9-realtime_7.3.0-9.9.1_amd64.json.xz"
  ],
  "Linux version 7.3.0-1001-aws (buildd@lcy02-amd64-033) (x86_64-linux-gnu-gcc (Ubuntu 15.3.0-3ubuntu1) 15.3.0, GNU ld (GNU Binutils for Ubuntu) 2.47) #1-Ubuntu SMP PREEMPT Mon Sep 14 14:14:30 UTC 2026 (Ubuntu 7.3.0-1001.1-aws 7.3.0-rc3)": [
   "Ubuntu/amd64/7.3.0/1001/aws/Ubuntu_7.3.0-1001-aws_7.3.0-1001.1_amd64.json.xz"
@@ -34833,5 +35463,26 @@
  ],
  "Linux version 7.3.0-1001-oracle (buildd@lcy02-amd64-028) (x86_64-linux-gnu-gcc (Ubuntu 15.3.0-3ubuntu1) 15.3.0, GNU ld (GNU Binutils for Ubuntu) 2.47) #1-Ubuntu SMP PREEMPT Mon Sep 14 16:27:44 UTC 2026 (Ubuntu 7.3.0-1001.1-oracle 7.3.0-rc3)": [
   "Ubuntu/amd64/7.3.0/1001/oracle/Ubuntu_7.3.0-1001-oracle_7.3.0-1001.1_amd64.json.xz"
+ ],
+ "Linux version 7.3.0-1002-oem (buildd@lcy02-amd64-026) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #2-Ubuntu SMP PREEMPT_DYNAMIC Thu Oct  1 08:27:35 UTC 2026 (Ubuntu 7.3.0-1002.2-oem 7.3.0-rc5)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.3.0/Ubuntu_7.3.0-1002-oem_7.3.0-1002.2_amd64.json.xz"
+ ],
+ "Linux version 7.3.0-1003-aws (buildd@lcy02-amd64-107) (x86_64-linux-gnu-gcc (Ubuntu 15.3.0-4ubuntu1) 15.3.0, GNU ld (GNU Binutils for Ubuntu) 2.47) #3-Ubuntu SMP PREEMPT Mon Oct  5 17:48:21 UTC 2026 (Ubuntu 7.3.0-1003.3-aws 7.3.0-rc6)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.3.0/Ubuntu_7.3.0-1003-aws_7.3.0-1003.3_amd64.json.xz"
+ ],
+ "Linux version 7.3.0-1003-azure (buildd@lcy02-amd64-002) (x86_64-linux-gnu-gcc (Ubuntu 15.3.0-4ubuntu1) 15.3.0, GNU ld (GNU Binutils for Ubuntu) 2.47) #3-Ubuntu SMP PREEMPT Mon Oct  5 16:40:35 UTC 2026 (Ubuntu 7.3.0-1003.3-azure 7.3.0-rc6)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.3.0/Ubuntu_7.3.0-1003-azure_7.3.0-1003.3_amd64.json.xz"
+ ],
+ "Linux version 7.3.0-1003-azure-fde (buildd@lcy02-amd64-109) (x86_64-linux-gnu-gcc (Ubuntu 15.3.0-4ubuntu1) 15.3.0, GNU ld (GNU Binutils for Ubuntu) 2.47) #4-Ubuntu SMP PREEMPT Wed Oct  7 17:12:58 UTC 2026 (Ubuntu 7.3.0-1003.4-azure-fde 7.3.0-rc6)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.3.0/Ubuntu_7.3.0-1003-azure-fde_7.3.0-1003.4_amd64.json.xz"
+ ],
+ "Linux version 7.3.0-1003-gcp (buildd@lcy02-amd64-057) (x86_64-linux-gnu-gcc (Ubuntu 15.3.0-4ubuntu1) 15.3.0, GNU ld (GNU Binutils for Ubuntu) 2.47) #3-Ubuntu SMP PREEMPT Mon Oct  5 15:51:04 UTC 2026 (Ubuntu 7.3.0-1003.3-gcp 7.3.0-rc6)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.3.0/Ubuntu_7.3.0-1003-gcp_7.3.0-1003.3_amd64.json.xz"
+ ],
+ "Linux version 7.3.0-1003-oem (buildd@lcy02-amd64-068) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #3-Ubuntu SMP PREEMPT_DYNAMIC Wed Oct 14 07:44:11 UTC 2026 (Ubuntu 7.3.0-1003.3-oem 7.3.0-rc6)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.3.0/Ubuntu_7.3.0-1003-oem_7.3.0-1003.3_amd64.json.xz"
+ ],
+ "Linux version 7.3.0-1003-oracle (buildd@lcy02-amd64-016) (x86_64-linux-gnu-gcc (Ubuntu 15.3.0-4ubuntu1) 15.3.0, GNU ld (GNU Binutils for Ubuntu) 2.47) #3-Ubuntu SMP PREEMPT Mon Oct  5 14:43:15 UTC 2026 (Ubuntu 7.3.0-1003.3-oracle 7.3.0-rc6)": [
+  "https://github.com/Abyss-W4tcher/volatility3-symbols/releases/download/isf-Ubuntu-amd64-7.3.0/Ubuntu_7.3.0-1003-oracle_7.3.0-1003.3_amd64.json.xz"
  ]
 }
