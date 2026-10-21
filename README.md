@@ -1,6 +1,6 @@
 # <img src="https://cdn-icons-png.flaticon.com/128/5088/5088992.png" width="3%" height="3%"> Volatility3 symbols
 
-![](https://img.shields.io/badge/Symbols-11864-seagreen?style=flat-square)
+![](https://img.shields.io/badge/Symbols-11712-seagreen?style=flat-square)
 
 ![](https://img.shields.io/badge/Ubuntu-amd64%20|%20i386-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=ubuntu)  
 ![](https://img.shields.io/badge/Debian-amd64-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=debian)  
@@ -12,10 +12,6 @@
 ## 10/20/2026 ISFs moved to GitHub Releases 📦
 
 Their repository paths (`raw/master/<Distro>/...`) stop working on **11/21/2026**. Use `banners/banners.json` with Volatility3 `--remote-isf-url`, or `banners/banners_plain.json` in scripts: only these two URLs are stable, every ISF location is read from them and may change. If Volatility3 does not find a kernel after that date, run it once with `--clear-cache`. Behind a firewall allowlist, also allow `release-assets.githubusercontent.com`. The many releases created on 10/20/2026 and 10/21/2026 are this move, a one-time change.
-
-## 03/27/2025 macOS warning ❗
-
-Most of the macOS symbols for > 11.0 are not correct due to the use of incomplete KDKs. While a fix is developed, please be aware that analysis with these ISFs might be broken with Volatility3.
 
 ## Volatility3 memory analysis 🔍
 
@@ -74,8 +70,15 @@ The `symbols_finders/` directory contains scripts and procedures to help analyst
 
 ## macOS
 
+> [!WARNING]
+> macOS analysis support is no longer actively maintained in Volatility3 since its parity release with Volatility2. The existing macOS plugins remain available, but may not receive future updates, see the [official announcement](https://volatilityfoundation.org/announcing-the-official-parity-release-of-volatility-3/#:~:text=the%20parity%20release.-,macOS,-Apple%20has%20made). The macOS symbols of this repository are kept for legacy samples.
+
+
 Kernel debug symbols for macOS are fetched from : https://developer.apple.com/download/all. However, as Apple does not provide every build, some versions aren't available in this repository.
 Here are some discussions about it :
 
 - https://github.com/volatilityfoundation/volatility3/issues/155
 - https://github.com/volatilityfoundation/volatility3/issues/541
+
+**10/21/2026**: the symbols for macOS 11.0 and later were removed. Most of them were not correct, due to incomplete KDKs, and analysis with them could be broken with Volatility3. Symbols for macOS 10.x are still available.
+
