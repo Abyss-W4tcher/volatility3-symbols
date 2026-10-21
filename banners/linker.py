@@ -80,10 +80,14 @@ def gh(*args):
 
 
 def release_tag(relative_path: str, releases: dict):
-    # One release per <Distro>/<arch>/<base-version>, rt kernels apart as their
-    # file names are the same as the standard ones (Alma/Rocky el9+). Releases
-    # are continued in <tag>-2, <tag>-3... when full.
+    # One release per <Distro>/<arch>/<X.Y.Z>, the distribution suffix of the
+    # base version directory dropped (Debian "6.12.33+deb13", "+bpo", Kali
+    # "+kali"). rt kernels apart, as their file names are the same as the
+    # standard ones (Alma/Rocky el9+). Releases are continued in <tag>-2,
+    # <tag>-3... when full.
     directories = relative_path.split("/")[:-1]
+    if len(directories) > 2:
+        directories[2] = directories[2].split("+")[0]
     tag = "isf-" + "-".join(directories[:3])
     if "rt" in directories[3:]:
         tag += "-rt"
@@ -108,13 +112,15 @@ def gh_api(*args):
 def release_asset_url(tag: str, relative_path: str):
     # The asset label is its relative path: unique, and kept as is by GitHub
     # (asset names may be renamed). Assets are listed page by page, as a
-    # release holds up to ASSETS_PER_RELEASE of them.
+    # release holds up to ASSETS_PER_RELEASE of them. An upload broken halfway
+    # leaves an asset in another state, never returned: the next upload then
+    # fails on its name, to be deleted by hand.
     release_id = gh_api(f"repos/{REPOSITORY}/releases/tags/{tag}", "--jq", ".id").strip()
     assets = gh_api(
         "--paginate",
         f"repos/{REPOSITORY}/releases/{release_id}/assets?per_page=100",
         "--jq",
-        '.[] | .label + "\\t" + .browser_download_url',
+        '.[] | select(.state == "uploaded") | .label + "\\t" + .browser_download_url',
     )
     for line in assets.splitlines():
         label, url = line.split("\t")
@@ -149,10 +155,11 @@ tracked = tracked_files()
 
 for file_path in PROJECT_DIRECTORY.rglob("**/*.xz"):
     relative_path = file_path.relative_to(PROJECT_DIRECTORY).as_posix()
-    if relative_path in tracked:
+    # Release asset first: the ISFs committed before the switch are migrated
+    # to releases while still tracked (migrate_releases.py)
+    entry = releases.get(relative_path)
+    if not entry and relative_path in tracked:
         entry = relative_path
-    else:
-        entry = releases.get(relative_path)
     if entry and entry in banners_as_str:
         continue
 
@@ -183,6 +190,7 @@ for file_path in PROJECT_DIRECTORY.rglob("**/*.xz"):
 
 write_new_banner(banners, natsorted=True)
 plain_banners = load_banners()
+release_paths = {url: path for path, url in releases.items()}
 vol_banners = {}
 vol_banners["version"] = 1
 vol_banners["linux"] = {}
@@ -193,9 +201,9 @@ for banner, paths in plain_banners.items():
     paths_out = []
 
     for path in paths:
-        key = "mac" if path.startswith("macOS") else "linux"
+        key = "mac" if release_paths.get(path, path).startswith("macOS") else "linux"
         if path.startswith("https://"):
-            # Release asset (macOS ISFs are all in the repository)
+            # Release asset
             paths_out.append(path)
             continue
         paths_out.append(
